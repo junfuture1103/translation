@@ -1,0 +1,2204 @@
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:49
+msgid "This IPv4 address of the relay"
+msgstr "IPv4 주소는 릴레이의 주소입니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1722
+msgid "This authentication type is not applicable to the selected EAP method."
+msgstr "이 인증 유형은 선택한 EAP 방법에 적용되지 않습니다."
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:58
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:56
+msgid "This does not look like a valid PEM file"
+msgstr "이는 유효한 PEM 파일과 같지 않습니다."
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:454
+msgid ""
+"This is a list of shell glob patterns for matching files and directories to "
+"include during sysupgrade. Modified files in /etc/config/ and certain other "
+"configurations are automatically preserved."
+msgstr ""
+"이것은 Sysupgrade 시에 유지되어야 하는 파일과 디렉터리 목록에 대한 shell "
+"glob 패턴들입니다. /etc/config/ 하위의 수정된 파일이나 특정 다른 설정들은 자"
+"동으로 보존됩니다."
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:81
+msgid ""
+"This is either the \"Update Key\" configured for the tunnel or the account "
+"password if no update key has been configured"
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv_hardif.js:42
+msgid ""
+"This is the batman-adv device where you want to link the physical Device "
+"from above to. If this list is empty, then you need to create one first. If "
+"you want to route mesh traffic over a wired network device, then please "
+"select it from the above Device selector. If you want to assign the batman-"
+"adv interface to a Wi-fi mesh then do not select a Device in the Device "
+"selector but rather go to the Wireless settings and select this Interface as "
+"a network from there."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:116
+msgid ""
+"This is the content of /etc/rc.local. Insert your own commands here (in "
+"front of 'exit 0') to execute them at the end of the boot process."
+msgstr ""
+"이것은 /etc/rc.local 파일의 내용입니다. 여기에 ('exit 0' 앞에) 부팅 절차가 끝"
+"날 때 실행하고자 하는 명령들을 삽입하세요."
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:54
+msgid ""
+"This is the local endpoint address assigned by the tunnel broker, it usually "
+"ends with <code>...:2/64</code>"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:274
+msgid "This is the only DHCP server in the local network."
+msgstr "이것은 로컬 네트워크에서 유일한 DHCP 서버입니다."
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:73
+msgid "This is the plain username for logging into the account"
+msgstr "이것은 계정에 로그인하기 위한 일반 사용자 이름입니다."
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:57
+msgid ""
+"This is the prefix routed to you by the tunnel broker for use by clients"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:50
+msgid ""
+"This is usually the address of the nearest PoP operated by the tunnel broker"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/processes.js:65
+msgid ""
+"This list gives an overview over currently running system processes and "
+"their status."
+msgstr ""
+"이 목록은 현재 실행중인 시스템 프로세스와 해당 상태에 대한 개요를 보여줍니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1676
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1734
+msgid ""
+"This option cannot be used because the ca-bundle package is not installed."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1629
+msgid "Time advertisement"
+msgstr "시간 광고"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:713
+msgid "Time in milliseconds"
+msgstr "밀리초 단위의 시간"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:581
+msgid "Time in seconds to spend in listening and learning states"
+msgstr "듣기 및 학습 상태에서 소요된 시간(초)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1174
+msgid "Time interval for rekeying GTK"
+msgstr "GTK의 재키를 위한 시간 간격"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1638
+msgid "Time zone"
+msgstr "시간대"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:717
+msgid "Timeout in seconds"
+msgstr "시간 초과(초)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:567
+msgid "Timeout in seconds for learned MAC addresses in the forwarding database"
+msgstr "전달 데이터베이스의 학습된 MAC 주소에 대한 시간 초과(초)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:586
+msgid "Timeout in seconds until topology updates on link loss"
+msgstr "링크 손실 시간까지의 시간 초과(초)"
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:438
+msgid ""
+"To fully configure the local WireGuard interface from an existing (e.g. "
+"provider supplied) configuration file, use the <strong><a class=\"full-"
+"import\" href=\"#\">configuration import</a></strong> instead."
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/luci.js:2674
+msgid "To login…"
+msgstr "로그인하기 위해..."
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:400
+msgid ""
+"To restore configuration files, you can upload a previously generated backup "
+"archive here. To reset the firmware to its initial state, click \"Perform "
+"reset\" (only possible with squashfs images)."
+msgstr ""
+"설정 파일을 복구하고자 한다면 이전에 백업하신 아카이브 파일을 여기로 업로드"
+"할 수 있습니다. 펌웨어의 초기 설정 초기화를 원하시다면, \"초기화 하기\" 를 클"
+"릭하세요. (squashfs 이미지들만 가능)."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1534
+msgid "Tone"
+msgstr "Tone"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:110
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:111
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:121
+msgid "Traceroute"
+msgstr "트레이스라우트"
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/view/modemmanager/status.js:126
+msgid "Tracking Area Code"
+msgstr "추적 영역 코드"
+
+#: protocols/luci-proto-gre/htdocs/luci-static/resources/protocol/grev6.js:79
+#: protocols/luci-proto-gre/htdocs/luci-static/resources/protocol/grev6tap.js:84
+msgid "Traffic Class"
+msgstr "트래픽 클래스"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:528
+msgid "Traffic filter chain \"%h\""
+msgstr "트래픽 필터 체인"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:466
+msgctxt "nft counter"
+msgid "Traffic matched by rule: %.1000mPackets, %.1024mBytes"
+msgstr "규칙과 일치하는 트래픽: %.1000m패킷, %.1024m바이트"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/led-trigger/netdev.js:25
+msgid "Transmit"
+msgstr "전송"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:319
+msgid "Transmit Hash Policy"
+msgstr "전송 해시 정책"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:239
+msgid "Transmit dropped"
+msgstr "전송된 데이터"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:238
+msgid "Transmit errors"
+msgstr "전송 오류"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:236
+msgid "Transmitted bytes"
+msgstr "전송된 바이트"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:237
+msgid "Transmitted packets"
+msgstr "전송된 패킷"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:79
+msgctxt "nft @th,off,len"
+msgid "Transport header bits %d-%d"
+msgstr "전송 헤더 비트 %d-%d"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:59
+msgctxt "nft th dport"
+msgid "Transport header destination port"
+msgstr "전송 헤더 대상 포트"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:58
+msgctxt "nft th sport"
+msgid "Transport header source port"
+msgstr "전송 헤더 출발 포트"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:69
+msgid "Tunnel ID"
+msgstr "터널 ID"
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:3005
+#: modules/luci-compat/luasrc/model/network.lua:1431
+msgid "Tunnel Interface"
+msgstr "터널 인터페이스"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/464xlat.js:44
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:55
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:76
+msgid "Tunnel Link"
+msgstr "터널 링크"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1437
+msgid "Tunnel device"
+msgstr "터널 장치"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:182
+msgid "Type of service"
+msgstr "서비스 유형"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:56
+msgctxt "nft udp dport"
+msgid "UDP destination port"
+msgstr "UDP 대상 포트"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:55
+msgctxt "nft udp sport"
+msgid "UDP source port"
+msgstr "UDP 출발 포트"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/connections.js:328
+msgid "UDP:"
+msgstr "UDP:"
+
+#: protocols/luci-proto-3g/htdocs/luci-static/resources/protocol/3g.js:91
+msgid "UMTS only"
+msgstr "UMTS 전용"
+
+#: modules/luci-compat/luasrc/model/network/proto_3g.lua:10
+#: protocols/luci-proto-3g/htdocs/luci-static/resources/protocol/3g.js:43
+msgid "UMTS/GPRS/EV-DO"
+msgstr "UMTS/GPRS/EV-DO"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:255
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:361
+msgid "UUID"
+msgstr "UUID"
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:16
+#: modules/luci-base/htdocs/luci-static/resources/network.js:17
+#: modules/luci-compat/luasrc/model/network.lua:34
+#: modules/luci-compat/luasrc/model/network.lua:35
+msgid "Unable to determine device name"
+msgstr "장치 이름을 결정할 수 없음"
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:18
+#: modules/luci-compat/luasrc/model/network.lua:36
+msgid "Unable to determine external IP address"
+msgstr "외부 IP 주소를 결정할 수 없음"
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:19
+#: modules/luci-compat/luasrc/model/network.lua:37
+msgid "Unable to determine upstream interface"
+msgstr "상향 링크 인터페이스를 결정할 수 없음"
+
+#: modules/luci-base/ucode/template/error404.ut:12
+msgid "Unable to dispatch"
+msgstr "전송할 수 없음"
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:85
+msgid "Unable to generate QR code: %s"
+msgstr "QR 코드를 생성할 수 없음: %s"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/dmesg.js:9
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/syslog.js:15
+msgid "Unable to load log data:"
+msgstr "로그 데이터를로드할 수 없음:"
+
+#: modules/luci-compat/luasrc/model/network/proto_modemmanager.lua:54
+#: modules/luci-compat/luasrc/model/network/proto_qmi.lua:54
+#: protocols/luci-proto-qmi/htdocs/luci-static/resources/protocol/qmi.js:22
+msgid "Unable to obtain client ID"
+msgstr "클라이언트 ID를 얻을 수 없음"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:221
+msgid "Unable to obtain mount information"
+msgstr "마운트 정보를 얻을 수 없음"
+
+#: modules/luci-compat/luasrc/model/network/proto_4x6.lua:61
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:7
+msgid "Unable to resolve AFTR host name"
+msgstr "AFTR 호스트 이름을 해결할 수 없음"
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:20
+#: modules/luci-compat/luasrc/model/network.lua:38
+msgid "Unable to resolve peer host name"
+msgstr "피어 호스트 이름을 해결할 수 없음"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/iptables.js:313
+msgid "Unable to restart firewall: %s"
+msgstr "방화벽을 다시 시작할 수 없음: %s"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/crontab.js:22
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:370
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:57
+msgid "Unable to save contents: %s"
+msgstr "콘텐츠를 저장할 수 없음: %s"
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:14
+msgid "Unable to set allowed mode list."
+msgstr "허용된 모드 목록을 설정할 수 없음."
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:17
+msgid "Unable to set preferred mode."
+msgstr "선호하는 모드를 설정할 수 없음."
+
+#: protocols/luci-proto-ncm/htdocs/luci-static/resources/protocol/ncm.js:29
+msgid "Unable to verify PIN"
+msgstr "PIN을 확인할 수 없음"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1325
+msgid "Unconfigure"
+msgstr "설정 해제"
+
+#: protocols/luci-proto-unet/htdocs/luci-static/resources/protocol/unet.js:8
+msgid "Unet"
+msgstr "Unet"
+
+#: modules/luci-base/htdocs/luci-static/resources/fs.js:102
+msgid "Unexpected reply data format"
+msgstr "예기치 않은 응답 데이터 형식"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1500
+msgid ""
+"Unique Local Address - in the range <code>fc00::/7</code>. Typically only "
+"within the &#8216;local&#8217; half <code>fd00::/8</code>. ULA for IPv6 is "
+"analogous to IPv4 private network addressing. This prefix is randomly "
+"generated at first install."
+msgstr ""
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:12
+msgid "Unknown and unsupported connection method."
+msgstr "알 수 없는 및 지원되지 않는 연결 방법."
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:2401
+#: modules/luci-compat/luasrc/model/network.lua:1138
+msgid "Unknown error (%s)"
+msgstr "알 수 없는 오류 (%s)"
+
+#: modules/luci-base/htdocs/luci-static/resources/rpc.js:412
+msgid "Unknown error code"
+msgstr "알 수 없는 오류 코드"
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:2089
+#: modules/luci-base/htdocs/luci-static/resources/protocol/none.js:6
+#: modules/luci-compat/luasrc/model/network.lua:965
+msgid "Unmanaged"
+msgstr "미관리"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:195
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:217
+msgid "Unmount"
+msgstr "마운트 해제"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/sshkeys.js:121
+msgid "Unnamed key"
+msgstr "이름 없는 키"
+
+#: modules/luci-compat/luasrc/model/network/proto_4x6.lua:64
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:9
+msgid "Unsupported MAP type"
+msgstr "지원되지 않는 MAP 유형"
+
+#: modules/luci-compat/luasrc/model/network/proto_ncm.lua:69
+#: protocols/luci-proto-ncm/htdocs/luci-static/resources/protocol/ncm.js:31
+msgid "Unsupported modem"
+msgstr "지원되지 않는 모뎀"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:112
+msgid "Unsupported protocol"
+msgstr "지원되지 않는 프로토콜"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:316
+msgid "Unsupported protocol type."
+msgstr "지원되지 않는 프로토콜 유형."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:215
+msgctxt "VLAN port state"
+msgid "Untagged"
+msgstr "태그되지 않은"
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:532
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/view/wireguard/status.js:97
+msgid "Untitled peer"
+msgstr "무제한 피어"
+
+#: modules/luci-compat/luasrc/view/cbi/tblsection.htm:151
+msgid "Up"
+msgstr "올림"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:411
+msgid "Up Delay"
+msgstr "올림 지연"
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4260
+msgid "Upload"
+msgstr "업로드"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:441
+msgid ""
+"Upload a sysupgrade-compatible image here to replace the running firmware."
+msgstr ""
+"현재 실행 중인 펌웨어를 교체하려면 여기에서 sysupgrade 와 호환되는 이미지를 "
+"업로드하세요."
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:2874
+msgid "Upload file"
+msgstr "파일 업로드"
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:2849
+msgid "Upload file…"
+msgstr "파일 업로드…"
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4206
+msgid "Upload has been cancelled"
+msgstr "업로드가 취소되었습니다"
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:2796
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4248
+msgid "Upload request failed: %s"
+msgstr "업로드 요청 실패: %s"
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4167
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4221
+msgid "Uploading file…"
+msgstr "파일 업로드 중…"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:789
+msgid ""
+"Upon pressing \"Continue\", anonymous \"wifi-iface\" sections will be "
+"assigned with a name in the form <em>wifinet#</em> and the network will be "
+"restarted to apply the updated configuration."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:411
+msgid ""
+"Upon pressing \"Continue\", bridges configuration will be updated and the "
+"network will be restarted to apply the updated configuration."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:445
+msgid ""
+"Upon pressing \"Continue\", ifname options will get renamed and the network "
+"will be restarted to apply the updated configuration."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:505
+msgid "Upstream resolvers will be queried in the order of the resolv file."
+msgstr "상향 링크 해결사는 resolv 파일의 순서대로 쿼리됩니다."
+"<abbr title=\"Domain Name System\">DNS</abbr> 서버들이 resolvfile의 순서에 따"
+"라 쿼리됩니다"
+
+#: protocols/luci-proto-mbim/htdocs/luci-static/resources/protocol/mbim.js:106
+msgid "Use DHCP"
+msgstr "DHCP 사용"
+
+#: protocols/luci-proto-relay/htdocs/luci-static/resources/protocol/relay.js:167
+msgid "Use DHCP gateway"
+msgstr "DHCP 게이트웨이 사용"
+
+#: protocols/luci-proto-mbim/htdocs/luci-static/resources/protocol/mbim.js:115
+msgid "Use DHCPv6"
+msgstr "DHCPv6 사용"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/464xlat.js:48
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:89
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:69
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6to4.js:53
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:67
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:84
+msgid "Use MTU on tunnel interface"
+msgstr "터널 인터페이스에서 MTU 사용"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:85
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:65
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6to4.js:49
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:80
+msgid "Use TTL on tunnel interface"
+msgstr "터널 인터페이스에서 TTL 사용"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:322
+msgid "Use XOR of hardware MAC addresses (layer2)"
+msgstr "하드웨어 MAC 주소의 XOR 사용 (레이어2)"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:323
+msgid "Use XOR of hardware MAC addresses and IP addresses (layer2+3)"
+msgstr "하드웨어 MAC 주소 및 IP 주소의 XOR 사용 (레이어2+3)"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:325
+msgid ""
+"Use XOR of hardware MAC addresses and IP addresses, rely on skb_flow_dissect "
+"(encap2+3)"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:295
+msgid "Use as external overlay (/overlay)"
+msgstr "외부 오버레이로 사용 (/overlay)"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:294
+msgid "Use as root filesystem (/)"
+msgstr "루트 파일 시스템으로 사용 (/)"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:88
+msgid "Use legacy MAP"
+msgstr "기존 MAP 사용"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:88
+msgid ""
+"Use legacy MAP interface identifier format (draft-ietf-softwire-map-00) "
+"instead of RFC7597"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:63
+msgctxt "nft nat flag persistent"
+msgid "Use same source and destination for each connection"
+msgstr "각 연결에 대해 동일한 소스 및 대상 사용"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1669
+msgid "Use system certificates"
+msgstr "시스템 인증서 사용"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1727
+msgid "Use system certificates for inner-tunnel"
+msgstr "내부 터널을 위해 시스템 인증서 사용"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:768
+msgid ""
+"Use the <em>Add</em> Button to add a new lease entry. The <em>MAC address</"
+"em> identifies the host, the <em>IPv4 address</em> specifies the fixed "
+"address to use, and the <em>Hostname</em> is assigned as a symbolic name to "
+"the requesting host. The optional <em>Lease time</em> can be used to set non-"
+"standard host-specific lease time, e.g. 12h, 3d or infinite."
+msgstr ""
+"새로운 항목을 추가하기 위해서는 <em>추가</em> 버튼을 사용하세요. <em>MAC-주소"
+"</em>는 host 를 나타내며, <em>IPv4-주소</em>는 사용할 고정 주소를 나타내고, "
+"요청하는 host 에 대해 <em>hostname</em> 이 symbolic name 으로 부여됩니다. 선"
+"택 사항인 <em>임대 시간</em>은 해당 host 에만 해당되는 시각을 설정하는데 사용"
+"될 수 있습니다. 예를 들어 12h, 3d 혹은 infinite 값들이 가능합니다."
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:324
+msgid "Use upper layer protocol information (layer3+4)"
+msgstr "상위 계층 프로토콜 정보 사용 (레이어3+4)"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:326
+msgid ""
+"Use upper layer protocol information, rely on skb_flow_dissect (encap3+4)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1514
+msgid "Used Key Slot"
+msgstr "사용된 키 슬롯"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1557
+msgid ""
+"Used for two different purposes: RADIUS NAS ID and 802.11r R0KH-ID. Not "
+"needed with normal WPA(2)-PSK."
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:146
+msgid "User Group"
+msgstr "사용자 그룹"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:158
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:106
+msgid "User certificate (PEM encoded)"
+msgstr "사용자 인증서 (PEM 인코딩)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:187
+msgid "User identifier"
+msgstr "사용자 식별자"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:170
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:118
+msgid "User key (PEM encoded)"
+msgstr "사용자 키 (PEM 인코딩)"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:131
+msgid "Utilize flow table <strong>%h</strong>"
+msgstr "흐름 테이블 활용 <strong>%h</strong>"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1602
+msgid "VC-Mux"
+msgstr "VC-Mux"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1550
+msgid "VDSL"
+msgstr "VDSL"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:489
+msgctxt "MACVLAN mode"
+msgid "VEPA (Virtual Ethernet Port Aggregator)"
+msgstr "VEPA (가상 이더넷 포트 어그리게이터)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:400
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1431
+msgid "VLAN (802.1ad)"
+msgstr "VLAN (802.1ad)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:399
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1428
+msgid "VLAN (802.1q)"
+msgstr "VLAN (802.1q)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:468
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:923
+msgid "VLAN ID"
+msgstr "VLAN ID"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:173
+msgid "VLANs on %q"
+msgstr "%q에서의 VLAN"
+
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:42
+msgid "VPN Local address"
+msgstr "VPN 로컬 주소"
+
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:46
+msgid "VPN Local port"
+msgstr "VPN 로컬 포트"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:97
+msgid "VPN Protocol"
+msgstr "VPN 프로토콜"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:103
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:93
+#: protocols/luci-proto-ppp/htdocs/luci-static/resources/protocol/pptp.js:58
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:39
+msgid "VPN Server"
+msgstr "VPN 서버"
+
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:152
+msgid "VPN Server certificate's SHA256 hash"
+msgstr "VPN 서버 인증서의 SHA256 해시"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:140
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:96
+msgid "VPN Server port"
+msgstr "VPN 서버 포트"
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:144
+msgid "VPN Server's certificate SHA1 hash"
+msgstr "VPN 서버의 인증서 SHA1 해시"
+
+#: modules/luci-compat/luasrc/model/network/proto_vpnc.lua:9
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:9
+msgid "VPNC (CISCO 3000 (and others) VPN)"
+msgstr "VPNC (CISCO 3000 및 기타) VPN"
+
+#: protocols/luci-proto-vti/htdocs/luci-static/resources/protocol/vti.js:10
+msgid "VTI"
+msgstr "VTI"
+
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan.js:10
+msgid "VXLAN (RFC7348)"
+msgstr "VXLAN (RFC7348)"
+
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan.js:53
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan6.js:48
+msgid "VXLAN network identifier"
+msgstr "VXLAN 네트워크 식별자"
+
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan6.js:10
+msgid "VXLANv6 (RFC7348)"
+msgstr "VXLANv6 (RFC7348)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:480
+msgid ""
+"Validate DNS replies and cache DNSSEC data, requires upstream to support "
+"DNSSEC."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1669
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1727
+msgid ""
+"Validate server certificate using built-in system CA bundle,<br />requires "
+"the \"ca-bundle\" package"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:388
+msgid "Validation for all slaves"
+msgstr "모든 슬레이브에 대한 유효성 검사"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:386
+msgid "Validation only for active slave"
+msgstr "활성 슬레이브에 대한 유효성 검사만"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:387
+msgid "Validation only for backup slaves"
+msgstr "백업 슬레이브에 대한 유효성 검사만"
+
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:73
+msgid "Vendor"
+msgstr "벤더"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:485
+msgid "Verify unsigned domain responses really come from unsigned domains."
+msgstr "서명되지 않은 도메인 응답이 실제로 서명되지 않은 도메인에서 오는지 확인하십시오."
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:196
+msgid "Verifying the uploaded image file."
+msgstr "업로드된 이미지 파일 확인 중."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:951
+msgid "Very High"
+msgstr "매우 높음"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:402
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1443
+msgid "Virtual Ethernet"
+msgstr "가상 이더넷"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:60
+msgid "Virtual dynamic interface"
+msgstr "가상 다이내믹 인터페이스"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1298
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1387
+msgid "WEP Open System"
+msgstr "WEP 오픈 시스템"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1299
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1388
+msgid "WEP Shared Key"
+msgstr "WEP 공유 키"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:2119
+msgid "WEP passphrase"
+msgstr "WEP 패스 프레이즈"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:983
+msgid "WLAN roaming"
+msgstr "WLAN 로밍"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1642
+msgid "WNM Sleep Mode"
+msgstr "WNM 슬립 모드"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1646
+msgid "WNM Sleep Mode Fixes"
+msgstr "WNM 슬립 모드 수정"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:2119
+msgid "WPA passphrase"
+msgstr "WPA 패스 프레이즈"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1289
+msgid ""
+"WPA-Encryption requires wpa_supplicant (for client mode) or hostapd (for AP "
+"and ad-hoc mode) to be installed."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/reboot.js:47
+msgid "Waiting for device..."
+msgstr "장치 대기 중..."
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:189
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:199
+msgid "Warning"
+msgstr "경고"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/reboot.js:26
+msgid "Warning: There are unsaved changes that will get lost on reboot!"
+msgstr "경고: 재부팅 시 손실되는 변경 내용이 있습니다!"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/password.js:37
+msgid "Weak"
+msgstr "약함"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:666
+msgid "Weight"
+msgstr "중량"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1053
+msgid ""
+"When delegating prefixes to multiple downstreams, interfaces with a higher "
+"preference value are considered first when allocating subnets."
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:105
+msgid ""
+"When enabled network coding increases the WiFi throughput by combining "
+"multiple frames into a single frame, thus reducing the needed air time."
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:76
+msgid ""
+"When enabled the distributed ARP table forms a mesh-wide ARP cache that "
+"helps non-mesh clients to get ARP responses much more reliably and without "
+"much delay."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:110
+msgid ""
+"When enabled, gateway is on-link even if the gateway does not match any "
+"interface prefix"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:707
+msgid ""
+"When enabled, new ARP table entries are added from received gratuitous APR "
+"requests or replies, otherwise only preexisting table entries are updated, "
+"but no new hosts are learned."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/led-trigger/heartbeat.js:14
+msgid ""
+"When inverted, the LED is continuously lit and flickers instead of it being "
+"off by default and blinking on system activity."
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:66
+msgid ""
+"When running the mesh over multiple WiFi interfaces per node batman-adv is "
+"capable of optimizing the traffic flow to gain maximum performance."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1580
+msgid ""
+"When using a PSK, the PMK can be automatically generated. When enabled, the "
+"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
+"key options."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1139
+msgid ""
+"Where Wi-Fi Multimedia (WMM) Mode QoS is disabled, clients may be limited to "
+"802.11a/802.11g rates."
+msgstr ""
+"Wi-Fi 멀티미디어(WMM) 모드 QoS를 비활성화할 경우, 클라이언트의 링크 속도가 "
+"802.11a/802.11g 수준으로 제한될 수 있습니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1135
+msgid ""
+"Where the ESSID is hidden, clients may fail to roam and airtime efficiency "
+"may be significantly reduced."
+msgstr ""
+"ESSID를 숨길 경우, 클라이언트는 로밍에 실패할 수 있으며 통신시간 효율이 확연"
+"히 저하될 수 있습니다."
+
+#: modules/luci-compat/luasrc/model/network/proto_wireguard.lua:9
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:119
+msgid "WireGuard VPN"
+msgstr "WireGuard VPN"
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:539
+msgid "WireGuard peer is disabled"
+msgstr "WireGuard 피어가 비활성화되었습니다."
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:2992
+#: modules/luci-compat/luasrc/model/network.lua:1419
+msgid "Wireless Adapter"
+msgstr "무선 어댑터"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:787
+msgid "Wireless configuration migration"
+msgstr "무선 구성 마이그레이션"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:206
+msgid "XOR policy (balance-xor, 2)"
+msgstr "XOR 정책 (balance-xor, 2)"
+
+#: modules/luci-base/htdocs/luci-static/resources/form.js:4094
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:297
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:345
+msgid "Yes"
+msgstr "예"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:305
+msgid "Yes (none, 0)"
+msgstr "예 (없음, 0)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:177
+msgid ""
+"You appear to be currently connected to the device via the \"%h\" interface. "
+"Do you really want to shut down the interface?"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:112
+msgid ""
+"You can enable or disable installed init scripts here. Changes will applied "
+"after a device reboot.<br /><strong>Warning: If you disable essential init "
+"scripts like \"network\", your device might become inaccessible!</strong>"
+msgstr ""
+"이 메뉴에서 설치된 init script 를 활성화/비활성화 할 수 있습니다. 변경 사항"
+"은 장치가 재부팅 될 때 적용되게 됩니다.<br /><strong>경고: 만약 \"network\" "
+"와 같은 중요 init script 를 비활성화 할 경우, 장치에 접속을 못하실 수 있습니"
+"다!</strong>"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:636
+msgid "You may add multiple records for the same Target."
+msgstr "같은 대상에 대한 여러 레코드를 추가할 수 있습니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:673
+msgid "You may add multiple records for the same domain."
+msgstr "동일한 도메인에 대한 여러 레코드를 추가할 수 있습니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:357
+msgid "You may add multiple unique Relay To on the same Listen addr."
+msgstr "동일한 수신 주소의 여러 고속도로 중계에 대한 여러 레코드를 추가할 수 있습니다."
+
+#: themes/luci-theme-bootstrap/ucode/template/themes/bootstrap/header.ut:78
+#: themes/luci-theme-material/ucode/template/themes/material/header.ut:98
+#: themes/luci-theme-openwrt/luasrc/view/themes/openwrt.org/header.htm:73
+msgid ""
+"You must enable JavaScript in your browser or LuCI will not work properly."
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:117
+msgid ""
+"You must select a primary interface which is included in selected slave "
+"interfaces!"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:98
+msgid ""
+"You must select at least one ARP IP target if ARP monitoring is selected!"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:213
+msgid "ZRam Compression Algorithm"
+msgstr "ZRam 압축 알고리즘"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:206
+msgid "ZRam Settings"
+msgstr "ZRam 설정"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:208
+msgid "ZRam Size"
+msgstr "ZRam 크기"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:635
+msgid "_proto: _tcp, _udp, _sctp, _quic, … ."
+msgstr "_proto: _tcp, _udp, _sctp, _quic 등."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:634
+msgid ""
+"_service: _sip, _ldap, _imap, _stun, _xmpp-client, … . (Note: while _http is "
+"possible, no browsers support SRV records.)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:531
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:153
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:164
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:103
+msgid "any"
+msgstr "어떠한"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:198
+msgid "automatic (disabled)"
+msgstr "자동 (비활성화)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:198
+msgid "automatic (enabled)"
+msgstr "자동 (활성화)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:82
+msgid "baseT"
+msgstr "베이스T"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1608
+msgid "bridged"
+msgstr "브리지"
+
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:146
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:406
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:35
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:99
+#: modules/luci-compat/luasrc/view/cbi/network_netlist.htm:31
+msgid "create"
+msgstr "생성"
+
+#: modules/luci-compat/luasrc/view/cbi/network_netlist.htm:69
+msgid "create:"
+msgstr "생성:"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:73
+msgctxt "nft unit"
+msgid "day"
+msgstr "일"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1082
+msgid "disable"
+msgstr "비활성화"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:157
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:681
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:782
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:904
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:940
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1005
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:91
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dhcpv6.js:25
+msgid "disabled"
+msgstr "비활성화됨"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1162
+msgid "driver default (%s)"
+msgstr "기본 드라이버 (%s)"
+
+#: protocols/luci-proto-sstp/htdocs/luci-static/resources/protocol/sstp.js:66
+msgid "e.g: --proxy 10.10.10.10"
+msgstr "예: --proxy 10.10.10.10"
+
+#: protocols/luci-proto-sstp/htdocs/luci-static/resources/protocol/sstp.js:68
+msgid "e.g: dump"
+msgstr "예: 덤프"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:157
+msgid "enabled"
+msgstr "활성화됨"
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/view/wireguard/status.js:60
+msgctxt "WireGuard keep alive interval"
+msgid "every %ds"
+msgstr "모든 %ds마다"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:797
+msgid "forced"
+msgstr "강제로"
+
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:85
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:196
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:61
+msgid "forward"
+msgstr "전진"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:98
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:84
+msgid "full-duplex"
+msgstr "풀 듀플렉스"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:98
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:84
+msgid "half-duplex"
+msgstr "하프 듀플렉스"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:593
+msgid "hexadecimal encoded value"
+msgstr "16 진수로 인코딩된 값"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1914
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/channel_analysis.js:297
+msgid "hidden"
+msgstr "숨겨진"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:74
+msgctxt "nft unit"
+msgid "hour"
+msgstr "시간"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:788
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:910
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:944
+msgid "hybrid mode"
+msgstr "하이브리드 모드"
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:63
+msgid "ignore"
+msgstr "무시"
+
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:69
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:192
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:46
+msgid "input"
+msgstr "입력"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:410
+msgid "key between 8 and 63 characters"
+msgstr "8자에서 63자 사이의 키"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:422
+msgid "key with either 5 or 13 characters"
+msgstr "5자 또는 13자인 키"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:810
+msgid "managed config (M)"
+msgstr "관리된 구성 (M)"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1397
+msgid "medium security"
+msgstr "중간의 보안"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:75
+msgctxt "nft unit"
+msgid "minute"
+msgstr "분"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1585
+msgid "minutes"
+msgstr "분"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:814
+msgid "mobile home agent (H)"
+msgstr "모바일 홈 에이전트 (H)"
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:423
+msgid "netif_carrier_ok()"
+msgstr "netif_carrier_ok()"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:47
+msgid "no"
+msgstr "아니오"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1162
+msgid "no override"
+msgstr "오버라이드 없음"
+
+#: modules/luci-base/htdocs/luci-static/resources/form.js:2269
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:59
+msgid "non-empty value"
+msgstr "비어 있지 않은 값"
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:41
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:55
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:69
+msgid "not present"
+msgstr "없음"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:795
+msgid "on available prefix"
+msgstr "사용 가능한 접두사에서"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:812
+msgid "other config (O)"
+msgstr "기타 구성 (O)"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:69
+msgctxt "nft unit"
+msgid "packets"
+msgstr "패킷"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1163
+msgid "randomly generated"
+msgstr "랜덤으로 생성됨"
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:51
+msgid ""
+"reduces overhead by collecting and aggregating originator messages in a "
+"single packet rather than many small ones"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/uhttpd.js:9
+msgid ""
+"uHTTPd offers <abbr title=\"Hypertext Transfer Protocol\">HTTP</abbr> or "
+"<abbr title=\"Hypertext Transfer Protocol Secure\">HTTPS</abbr> network "
+"access."
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/10_system.js:28
+msgid "unknown version"
+msgstr "알 수없는 버전"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:360
+msgid "valid hostname or IP address"
+msgstr "유효한 호스트 이름 또는 IP 주소"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:240
+msgid "valid integer value"
+msgstr "유효한 정수 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:355
+msgid "valid multicast MAC address"
+msgstr "유효한 멀티캐스트 MAC 주소"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:435
+msgid ""
+"valid network device name between 1 and 15 characters not containing \":\", "
+"\"/\", \"%\" or spaces"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:433
+msgid "valid network device name, not \".\" or \"..\""
+msgstr "유효한 네트워크 장치 이름, \"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:323
+msgid "valid network in address/netmask notation"
+msgstr "주소/서브넷 마스크 표기법이 아닌"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:532
+msgid "valid phone digit (0-9, \"*\", \"#\", \"!\" or \".\")"
+msgstr "전화 숫자 (0-9, \"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:346
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:349
+msgid "valid port or port range (port1-port2)"
+msgstr "포트 또는 포트 범위의 유효한 포트 값 (포트1-포트2)"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:338
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:192
+msgid "valid port value"
+msgstr "유효한 포트 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:537
+msgid "valid time (HH:MM:SS)"
+msgstr "유효한 시간 (HH:MM:SS)"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:459
+msgid "value between %d and %d characters"
+msgstr "%d 및 %d 문자 사이의 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:440
+msgid "value between %f and %f"
+msgstr "%f 및 %f 사이의 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:444
+msgid "value greater or equal to %f"
+msgstr "%f 이상의 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:448
+msgid "value smaller or equal to %f"
+msgstr "%f 이하의 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:453
+msgid "value with %d characters"
+msgstr "%d 문자로 이루어진 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:464
+msgid "value with at least %d characters"
+msgstr "%d 문자 이상의 값"
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:469
+msgid "value with at most %d characters"
+msgstr "%d 문자 이하의 값"
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:72
+msgctxt "nft unit"
+msgid "week"
+msgstr "주"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:47
+msgid "yes"
+msgstr "예"
+
+#: /admin/wizard
+msgid "Wizard - Start"
+msgstr "마법사 - 시작"
+
+#: /admin/wizard
+msgid "Setting parameters has never been so easy as it is now, this setup wizard will guide you set the basic parameters related to the network, click 'Next' to start it. If you want to set a specific function or parameter in detail, click the relevant column on the navigation bar."
+msgstr "설정 매개변수를 설정한 적이 없는 것처럼 간단하게 설정하려면이 설정 마법사가 기본적인 네트워크 관련 매개변수를 설정하는 데 도움이 됩니다. 자세한 기능이나 매개변수를 설정하려면 네비게이션 바에서 관련 열을 클릭하십시오."
+
+#: /admin/wizard
+msgid "Next"
+msgstr "다음"
+
+#:/admin/wizard/lan?fromurl=wizard
+msgid "Wizard - LAN Setting"
+msgstr "매개변수 설정 마법사 - LAN 설정"
+
+#:/admin/wizard/lan?fromurl=wizard
+msgid "IPv4 netmask"
+msgstr "IPv4 서브넷 마스크"
+
+#:/admin/wizard/lan?fromurl=wizard
+msgid "IPv4 gateway"
+msgstr "IPv4 게이트웨이"
+
+#:/admin/wizard/wireless?fromurl=lan
+msgid "Wizard - WiFi Setting"
+msgstr "매개변수 설정 마법사 - WiFi 설정"
+
+#:/admin/wizard/wireless?fromurl=wireless
+msgid "Wizard - WAN Setting"
+msgstr "매개변수 설정 마법사 - WAN 설정"
+
+#:/admin/wizard/wireless?fromurl=wan
+msgid "Wizard - Cellular Setting"
+msgstr "매개변수 설정 마법사 - 셀룰러 설정"
+
+#:/admin/wizard/wireless?fromurl=wan
+msgid "Cellular APN for sim card"
+msgstr "심 카드의 셀룰러 APN"
+
+#:/admin/wizard/wireless?fromurl=cellular
+msgid "Wizard - Completion"
+msgstr "매개변수 설정 마법사 - 완료"
+
+#:/admin/wizard/wireless?fromurl=cellular
+msgid "Congratulation! Setup wizard is about to complete, click 'Complete' to apply your changes."
+msgstr "축하합니다! 설정 마법사가 완료되려고 하고 있습니다. 변경 사항을 적용하려면 '완료'를 클릭하십시오."
+
+#:/admin/wizard/wireless?fromurl=cellular
+msgid "COMPLETE"
+msgstr "완료"
+
+#:/admin/wizard/complete
+msgid "Updating..."
+msgstr "업데이트 중..."
+
+#:/admin/wizard/complete
+msgid "Wizard is updating noW"
+msgstr "매직이 지금 업데이트되고 있습니다"
+
+#:/admin/wizard/complete
+msgid "DO NOT POWER OFF THE DEVICE!"
+msgstr "장치의 전원을 끄지 마십시오!"
+
+#:/admin/wizard/complete
+msgid "Please wait a few minutes"
+msgstr "몇 분 기다려 주십시오"
+
+#:/admin/wizard/complete
+msgid "Waiting for changes to be applied..."
+msgstr "변경 사항이 적용되길 기다리는 중..."
+
+
+#:/admin/dashboard
+msgid "Teminal"
+msgstr "터미널"
+
+#:/admin/dashboard
+msgid "Internet"
+msgstr "인터넷"
+
+#:/admin/dashboard
+msgid "Disconnected"
+msgstr "연결 해제됨"
+
+#:/admin/dashboard
+msgid "System Information"
+msgstr "시스템 정보"
+
+#:/admin/dashboard
+msgid "Resource usage"
+msgstr "자원 사용량"
+
+#:/admin/dashboard
+msgid "WIFI Infomation"
+msgstr "WIFI 정보"
+
+#:/admin/dashboard
+msgid "Option"
+msgstr "옵션"
+
+#:/admin/dashboard
+msgid "4G LTE Information"
+msgstr "4G LTE 정보"
+
+#:/admin/dashboard
+msgid "Operator Name"
+msgstr "운영자 이름"
+
+#:/admin/dashboard
+msgid "Band"
+msgstr "락"
+
+#:/admin/dashboard
+msgid "more>>"
+msgstr "더 보기>>"
+
+#:/admin/basic/cell
+msgid "Cellular Information"
+msgstr "셀룰러 정보"
+
+#:/admin/basic/cell
+msgid "We get the Cellular information on this page"
+msgstr "우리는이 페이지에서 셀룰러 정보를 얻습니다"
+
+#:/admin/basic/cell
+msgid "Cellular Information for SIM"
+msgstr "SIM 카드용 셀룰러 정보"
+
+#:/admin/basic/cell
+msgid "Manufacturer"
+msgstr "제조업체"
+
+#:/admin/basic/cell
+msgid "Software Version"
+msgstr "소프트웨어 버전"
+
+#:/admin/basic/cell
+msgid "Operator"
+msgstr "운영자"
+
+#:/admin/basic/cell/setting/
+msgid "Cellular Setting"
+msgstr "셀룰러 설정"
+
+#:/admin/basic/cell/setting/
+msgid "Set the params for the Cellular Internet."
+msgstr "셀룰러 인터넷의 매개변수를 설정하십시오."
+
+#:/admin/basic/cell/setting/
+msgid "SIM Settings"
+msgstr "SIM 설정"
+
+#:/admin/basic/cell/setting/
+msgid "Dail Type"
+msgstr "다이얼 유형"
+
+#:/admin/basic/cell/setting/
+msgid "SIM Select"
+msgstr "SIM 선택"
+
+#:/admin/basic/cell/setting/
+msgid " After selecting the sim card, please reboot device to active."
+msgstr "Sim 카드 선택 후 장치를 재부팅하여 활성화하십시오."
+
+#:/admin/basic/cell/setting/
+msgid "The Host to ping for keeping Cellular alive."
+msgstr "셀룰러를 유지하기 위해 핑 할 호스트입니다."
+
+#:/admin/basic/cell/setting/
+msgid "PDP Type"
+msgstr "PDP 유형"
+
+#:/admin/basic/cell/setting/
+msgid "Authentication Type"
+msgstr "인증 유형"
+
+#:/admin/basic/cell/setting/
+msgid "PDP Num"
+msgstr "PDP Num"
+
+#:/admin/basic/wired
+msgid "LAN Setting"
+msgstr "LAN 설정"
+
+#:/admin/basic/wired
+msgid "There are ipaddress netmas gateway dns mtu such as parameter on the LAN Settings page"
+msgstr "LAN 설정 페이지에서는 IP 주소, 넷마스크, 게이트웨이, DNS, MTU 등의 매개변수가 있습니다."
+
+#:/admin/basic/wired/wan
+msgid "WAN Settings"
+msgstr "WAN 설정"
+
+#:/admin/basic/wired/wan
+msgid "Setting parameters about the WAN Interface on this page."
+msgstr "이 페이지에서 WAN 인터페이스에 관한 매개변수를 설정합니다."
+
+#:/admin/basic/wired/wan
+msgid "Check Alive Host"
+msgstr "활성 호스트 확인"
+
+#:/admin/basic/wired/wan
+msgid "Override MAC address"
+msgstr "MAC 주소 재정의"
+
+#:/admin/basic/wired/wan
+msgid "DHCP client"
+msgstr "DHCP 클라이언트"
+
+#:/admin/basic/wired/wan
+msgid "Statuc address"
+msgstr "정적 주소"
+
+#:/admin/basic/wireless
+msgid "Configure the params of 2.4G wireless"
+msgstr "2.4G 무선의 매개변수를 구성합니다."
+
+#:/admin/basic/wireless
+msgid "Wi-Fi Setting"
+msgstr "WiFi 설정"
+
+#:/admin/basic/wireless
+msgid "Hide ESSID"
+msgstr "ESSID 숨기기"
+
+#:/admin/basic/wireless
+msgid "AuthMode"
+msgstr "인증 모드"
+
+#:/admin/basic/wireless
+msgid "HT Mode"
+msgstr "HT 모드"
+
+#:/admin/basic/wireless
+msgid "Country Region/"
+msgstr "국가 지역/"
+
+#:/admin/basic/wireless
+msgid "Channel 0"
+msgstr "채널 0"
+
+#:/admin/basic/wireless
+msgid "Channel 1"
+msgstr "채널 1"
+
+#:/admin/basic/wireless
+msgid "Channel 2"
+msgstr "채널 2"
+
+#:/admin/basic/wireless
+msgid "Channel 3"
+msgstr "채널 3"
+
+#:/admin/basic/wireless
+msgid "Channel 4"
+msgstr "채널 4"
+
+#:/admin/basic/wireless
+msgid "Channel 5"
+msgstr "채널 5"
+
+#:/admin/basic/wireless
+msgid "Channel 6"
+msgstr "채널 6"
+
+#:/admin/basic/wireless
+msgid "Channel 7"
+msgstr "채널 7"
+
+#:/admin/basic/wireless
+msgid "Channel 8"
+msgstr "채널 8"
+
+#:/admin/basic/wireless
+msgid "Channel 9"
+msgstr "채널 9"
+
+#:/admin/basic/wireless
+msgid "Channel 10"
+msgstr "채널 10"
+
+#:/admin/basic/wireless
+msgid "Channel 11"
+msgstr "채널 11"
+
+#:/admin/basic/wireless
+msgid "WPA-PSK/WPA2-PSK2 Mixed Mode"
+msgstr "WPA-PSK/WPA2-PSK2 혼합 모드"
+
+
+#:/admin/basic/wireless/apcli
+msgid "Repeater"
+msgstr "리피터"
+
+#:/admin/basic/wireless/apcli
+msgid "WIFI WISP Repeater"
+msgstr "WIFI WISP 리피터"
+
+#:/admin/basic/wireless/apcli
+msgid "We Can configure the wifi wisp for the router"
+msgstr "우리는 라우터를 위해 wifi wisp를 구성할 수 있습니다."
+
+#:/admin/basic/wireless/apcli
+msgid "Repeater Status"
+msgstr "리피터 상태"
+
+#:/admin/basic/wireless/apcli
+msgid "Locked BSSID"
+msgstr "잠긴 BSSID"
+
+#:/admin/basic/wireless/apcli
+msgid "Encryption Mode"
+msgstr "암호화 모드"
+
+#:/admin/basic/wireless/apcli
+msgid "Check Alive Host"
+msgstr "확인 가능한 호스트"
+
+#:/admin/basic/wireless/apcli
+msgid "WIFI-SCAN"
+msgstr "WIFI-SCAN"
+
+#:/admin/basic/dhcp
+msgid "IPv4-Address"
+msgstr "IPv4 주소"
+
+#:/admin/basic/dhcp
+msgid "DHCP Leases"
+msgstr "DHCP 할당"
+
+#:/admin/basic/dhcp
+msgid "IPv6-Address"
+msgstr "IPv6 주소"
+
+#:/admin/basic/dhcp
+msgid "MAC-Address"
+msgstr "MAC 주소"
+
+#:/admin/basic/dhcp
+msgid "Leasetime remaining"
+msgstr "남은 리스 타임"
+
+#:/admin/advanced/dtu
+msgid "DTU Management"
+msgstr "DTU 관리"
+
+#:/admin/advanced/dtu
+msgid "Servers List"
+msgstr "서버 목록"
+
+#:/admin/advanced/dtu
+msgid "ADD"
+msgstr "추가"
+
+#:/admin/advanced/dtu
+msgid "DTU Management"
+msgstr "DTU 관리"
+
+#:/admin/advanced/dtu
+msgid "	Server IP"
+msgstr "서버 IP"
+
+#:/admin/advanced/dtu
+msgid "	Server Port"
+msgstr "서버 포트"
+
+#:/admin/advanced/dtu
+msgid "CONNECT"
+msgstr "연결"
+
+#:admin/advanced/dtu/serial
+msgid "Serial Port"
+msgstr "시리얼 포트"
+
+#:admin/advanced/dtu/serial
+msgid "DTU Serial Port Management"
+msgstr "DTU 시리얼 포트 관리"
+
+#:admin/advanced/dtu/serial
+msgid "This is the page of setting the dtu serail port."
+msgstr "이것은 dtu 시리얼 포트를 설정하는 페이지입니다."
+
+#:admin/advanced/dtu/serial
+msgid "Serial Port Setting"
+msgstr "시리얼 포트 설정"
+
+#:admin/advanced/dtu/serial
+msgid "Baud rate"
+msgstr "보레이트"
+
+#:admin/advanced/dtu/serial
+msgid "Time Interval(ms)"
+msgstr "시간 간격(ms)"
+
+#:admin/advanced/dtu/serial
+msgid "Data bits"
+msgstr "데이터 비트"
+
+#:admin/advanced/dtu/serial
+msgid "Parity"
+msgstr "패리티"
+
+#:admin/advanced/dtu/serial
+msgid "Stop bits"
+msgstr "정지 비트"
+
+#:/admin/advanced/firewall/zones/
+msgid "Firewall - Zone Settings"
+msgstr "방화벽 - 존 설정"
+
+#:/admin/advanced/firewall/zones/
+msgid "The firewall creates zones over your network interfaces to control network traffic flow."
+msgstr "방화벽은 네트워크 인터페이스 위에 존을 생성하여 네트워크 트래픽 흐름을 제어합니다."
+
+#:/admin/advanced/firewall/zones/
+msgid "Enable SYN-flood protection"
+msgstr "SYN 플러드 보호 활성화"
+
+#:/admin/advanced/firewall/zones/
+msgid "Drop invalid packets"
+msgstr "유효하지 않은 패킷 삭제"
+
+#:/admin/advanced/firewall/zones/
+msgid "Input"
+msgstr "입력"
+
+#:/admin/advanced/firewall/zones/
+msgid "Output"
+msgstr "출력"
+
+#:/admin/advanced/firewall/zones/
+msgid "Forward"
+msgstr "전송"
+
+#:/admin/advanced/firewall/zones/
+msgid "accept"
+msgstr "수락"
+
+#:/admin/advanced/firewall/zones/
+msgid "reject"
+msgstr "거부"
+
+#:/admin/advanced/firewall/zones/
+msgid "drop"
+msgstr "드롭"
+
+#:/admin/advanced/firewall/zones/
+msgid "Zone ⇒ Forwardings"
+msgstr "존 ⇒ 전달"
+
+#:/admin/advanced/firewall/zones/
+msgid "Zones"
+msgstr "존"
+
+#:/admin/advanced/firewall/zones/
+msgid "Masquerading"
+msgstr "매스커레이딩"
+
+#:/admin/advanced/firewall/zones/
+msgid "MSS clamping"
+msgstr "MSS 클램핑"
+
+#:/admin/advanced/firewall/dmz/
+msgid "DMZ Setting"
+msgstr "DMZ 설정"
+
+#:/admin/advanced/firewall/dmz/
+msgid "Configure The DMZ"
+msgstr "DMZ 구성"
+
+#:/admin/advanced/firewall/dmz/
+msgid "DMZ Host IP Address"
+msgstr "DMZ 호스트 IP 주소"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Port Forwards"
+msgstr "포트 포워드"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Firewall - Port Forwards"
+msgstr "방화벽 - 포트 포워드"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Port forwarding allows remote computers on the Internet to connect to a specific computer or service within the private LAN."
+msgstr "포트 포워딩은 인터넷의 원격 컴퓨터가 개인 LAN 내에서 특정 컴퓨터 또는 서비스에 연결할 수 있게 합니다."
+
+#:/admin/advanced/firewall/forwards/
+msgid "Match"
+msgstr "매치"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Forward to"
+msgstr "전달 대상"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Sort"
+msgstr "정렬"
+
+#:/admin/advanced/firewall/forwards/
+msgid "From any host in wan Via any router IP"
+msgstr "wan의 모든 호스트에서 어떤 라우터 IP를 통해"
+
+#:/admin/advanced/firewall/forwards/
+msgid "New port forward:"
+msgstr "새 포트 포워드:"
+
+#:/admin/advanced/firewall/forwards/
+msgid "New po"
+msgstr "새로운 포"
+
+#:/admin/advanced/firewall/forwards/
+msgid "External zone"
+msgstr "외부 존"
+
+#:/admin/advanced/firewall/forwards/
+msgid "External port"
+msgstr "외부 포트"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Internal zone"
+msgstr "내부 존"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Internal IP address"
+msgstr "내부 IP 주소"
+
+#:/admin/advanced/firewall/forwards/
+msgid "Internal port"
+msgstr "내부 포트"
+
+#:/admin/advanced/firewall/rules/
+msgid "Traffic Rules"
+msgstr "트래픽 규칙"
+
+#:/admin/advanced/firewall/rules/
+msgid "Firewall - Traffic Rules"
+msgstr "방화벽 - 트래픽 규칙"
+
+#:/admin/advanced/firewall/rules/
+msgid "Traffic rules define policies for packets traveling between different zones, for example to reject traffic between certain hosts or to open WAN ports on the router."
+msgstr "트래픽 규칙은 다른 존 간에 이동하는 패킷에 대한 정책을 정의합니다. 예를 들어 특정 호스트 간의 트래픽을 거부하거나 라우터의 WAN 포트를 열기 위한 것입니다."
+
+#:/admin/advanced/firewall/rules/
+msgid "Action"
+msgstr "동작"
+
+#:/admin/advanced/firewall/rules/
+msgid "Accept input"
+msgstr "입력 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-DHCP-Renew"
+msgstr "DHCP 갱신 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-Ping"
+msgstr "핑 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-IGMP"
+msgstr "IGMP 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-MLD"
+msgstr "MLD 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-DHCPv6"
+msgstr "DHCPv6 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-ICMPv6-Input"
+msgstr "ICMPv6 입력 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-ICMPv6-Forward"
+msgstr "ICMPv6 전송 허용"
+
+#:/admin/advanced/firewall/rules/
+msgid "Open ports on router:"
+msgstr "라우터에서 열린 포트:"
+
+#:/admin/advanced/firewall/rules/
+msgid "New input rule"
+msgstr "새로운 입력 규칙"
+
+#:/admin/advanced/firewall/rules/
+msgid "New forward rule:"
+msgstr "새로운 전송 규칙:"
+
+#:/admin/advanced/firewall/rules/
+msgid "Source zone"
+msgstr "출발 존"
+
+#:/admin/advanced/firewall/rules/
+msgid "Destination zone	"
+msgstr "도착 존"
+
+#:/admin/advanced/firewall/rules/
+msgid "ADD AND EDIT..."
+msgstr "추가 및 편집..."
+
+#:/admin/advanced/firewall/rules/
+msgid "Source NAT is a specific form of masquerading which allows fine grained control over the source IP used for outgoing traffic, for example to map multiple WAN addresses to internal subnets."
+msgstr "소스 NAT은 아웃바운드 트래픽에 사용되는 소스 IP에 대해 세밀한 제어를 허용하는 특수한 매스커레이딩 형식입니다. 예를 들어 여러 WAN 주소를 내부 서브넷에 매핑하는 경우 등입니다."
+
+#:/admin/advanced/firewall/rules/
+msgid "New source NAT:"
+msgstr "새로운 소스 NAT:"
+
+#:/admin/advanced/firewall/rules/
+msgid "To source IP"
+msgstr "소스 IP로"
+
+#:/admin/advanced/firewall/rules/
+msgid "To source port	"
+msgstr "소스 포트로"
+
+#:/admin/advanced/firewall/rules/
+msgid "From any host in wan"
+msgstr "wan의 모든 호스트에서"
+
+#:/admin/advanced/firewall/rules/
+msgid "To any router IP at port 68 on this device"
+msgstr "이 장치의 포트 68에서이 장치의 어떤 라우터 IP로"
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv4-ICMP with type echo-request"
+msgstr "IPv4-ICMP 유형 echo-request로"
+
+#:/admin/advanced/firewall/rules/
+msgid "To any router IP on this device"
+msgstr "이 장치에서이 장치의 어떤 라우터 IP로"
+
+#:/admin/advanced/firewall/rules/
+msgid "From IP range fe80::/10 in wan with source port 547"
+msgstr "wan에서 소스 포트 547으로 범위 fe80::/10에서"
+
+#:/admin/advanced/firewall/rules/
+msgid "To IP range fe80::/10 at port 546 on this device"
+msgstr "이 장치에서 포트 546으로 범위 fe80::/10에서"
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv6-ICMP with types 130/0, 131/0, 132/0, 143/0"
+msgstr "IPv6-ICMP 유형 130/0, 131/0, 132/0, 143/0"
+
+#:/admin/advanced/firewall/rules/
+msgid "From IP range fe80::/10 in wan"
+msgstr "wan에서 범위 fe80::/10에서"
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv6-ICMP with types echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type, router-solicitation, neighbour-solicitation, router-advertisement, neighbour-advertisement"
+msgstr "범위 fe80::/10에서 IPv6-ICMP 유형 echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type, router-solicitation, neighbour-solicitation, router-advertisement, neighbour-advertisement"
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv6-ICMP with types echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type"
+msgstr "범위 fe80::/10에서 IPv6-ICMP 유형 echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type"
+
+#:/admin/advanced/firewall/rules/
+msgid "Any IPSEC-ESP"
+msgstr "어떤 IPSEC-ESP"
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Domain Filter"
+msgstr "도메인 필터"
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Domain Filter Setting"
+msgstr "도메인 필터 설정"
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Configure the Domain Filter"
+msgstr "도메인 필터를 구성합니다."
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "The Filter Type"
+msgstr "필터 유형"
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "BlackList"
+msgstr "블랙리스트"
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "WhiteList"
+msgstr "화이트리스트"
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Blocked Domain List"
+msgstr "차단된 도메인 목록"
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "VPN PASS THROUGH"
+msgstr "VPN 통과"
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Configure The VPN Passthrough"
+msgstr "VPN 통과 구성"
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Allow PPTP transparent transmission in VPN connection"
+msgstr "VPN 연결에서 PPTP 투명 전송 허용"
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Allow L2TP transparent transmission in VPN connection"
+msgstr "VPN 연결에서 L2TP 투명 전송 허용"
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Allow IPSEC transparent transmission in VPN connection"
+msgstr "VPN 연결에서 IPSEC 투명 전송 허용"
+
+#:/admin/advanced/firewall/custom/
+msgid "Firewall - Custom Rules"
+msgstr "방화벽 - 사용자 정의 규칙"
+
+#:/admin/advanced/firewall/custom/
+msgid "Custom Rules"
+msgstr "사용자 정의 규칙"
+
+#:/admin/advanced/firewall/custom/
+msgid "Custom rules allow you to execute arbritary iptables commands which are not otherwise covered by the firewall framework. The commands are executed after each firewall restart, right after the default ruleset has been loaded."
+msgstr "사용자 정의 규칙을 사용하면 방화벽 프레임워크로는 다루지 않는 임의의 iptables 명령을 실행할 수 있습니다. 명령은 각 방화벽 재시작 후에 기본 규칙 집합이로드된 직후에 실행됩니다."
+
+#:/admin/advanced/system
+msgid "Enable NTP Client"
+msgstr "NTP 클라이언트 활성화"
+
+#:/admin/advanced/system
+msgid "NTP Server Candidates"
+msgstr "NTP 서버 후보"
+
+#:/admin/advanced/system
+msgid "Configure the timezone of your device."
+msgstr "기기의 시간대를 구성합니다."
+
+#:/admin/advanced/system/flashops/
+msgid "Backup/Restore"
+msgstr "백업/복원"
+
+#:/admin/advanced/system/flashops/
+msgid "Backup the system configs and restore it and update the firemware"
+msgstr "시스템 구성을 백업하고 복원하며 펌웨어를 업데이트합니다."
+
+#:/admin/advanced/system/flashops/
+msgid "Click "Generate archive" to download a tar archive of the current configuration files. To reset the firmware to its initial state, click "Perform reset" (only possible with squashfs images)."
+msgstr "클릭"
+
+#:/admin/advanced/system/flashops/
+msgid "To restore configuration files, you can upload a previously generated backup archive here."
+msgstr "구성 파일을 복원하려면 여기에 이전에 생성한 백업 아카이브를 업로드할 수 있습니다."
+
+#:/admin/advanced/system/flashops/
+msgid "Upload a sysupgrade-compatible image here to replace the running firmware. Check "Keep settings" to retain the current configuration (please upload the file provided by the manufacturer)."
+msgstr "실행 중인 펌웨어를 대체하려면 여기에 sysupgrade 호환 이미지를 업로드하십시오. 확인"
+
+#:/admin/advanced/system/flashops/
+msgid "Keep settings:"
+msgstr "설정 유지:"
+
+#:/admin/advanced/system/model/
+msgid "Changes the the device model"
+msgstr "기기 모델 변경"
+
+#:/admin/advanced/system/model/
+msgid "Router Model"
+msgstr "라우터 모델"
+
+#:/admin/advanced/system/autoreboot/
+msgid "Scheduled Reboot"
+msgstr "예약된 재부팅"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Scheduled reboot Setting"
+msgstr "예약된 재부팅 설정"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Week Day"
+msgstr "요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Hour"
+msgstr "시"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Minute"
+msgstr "분"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Everyday"
+msgstr "매일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Monday"
+msgstr "월요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Tuesday"
+msgstr "화요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Wednesday"
+msgstr "수요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Thursday"
+msgstr "목요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Friday"
+msgstr "금요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Saturday"
+msgstr "토요일"
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Sunday"
+msgstr "일요일"
+
+#:/admin/advanced/ioctl
+msgid "IO Controller Overview"
+msgstr "IO 컨트롤러 개요"
+
+#:/admin/advanced/ioctl
+msgid "You can get the all status of IO in the device"
+msgstr "기기에서 IO의 모든 상태를 얻을 수 있습니다."
+
+#:/admin/advanced/ioctl
+msgid "Controller"
+msgstr "컨트롤러"
+
+#:/admin/advanced/vpn
+msgid "VPN Overview"
+msgstr "VPN 개요"
+
+#:/admin/advanced/vpn
+msgid "VPN Management"
+msgstr "VPN 관리"
+
+#:/admin/advanced/vpn
+msgid "Overview of the vpns both pptp and l2tp client"
+msgstr "pptp 및 l2tp 클라이언트의 vpn 개요"
+
+#:/admin/advanced/vpn/add
+msgid "You can add new vpn tunnel with pptp or l2tp protocol"
+msgstr "pptp 또는 l2tp 프로토콜을 사용하여 새 vpn 터널을 추가할 수 있습니다."
+
+#:/admin/advanced/vpn/add
+msgid "NEW VPN Setting"
+msgstr "새 VPN 설정"
+
+#:/admin/advanced/vpn/add
+msgid "Name of the new vpn tunne"
+msgstr "새로운 vpn 터널의 이름"
+
+#:/admin/advanced/vpn/add
+msgid "Firewall Zone"
+msgstr "방화벽 존"
+
+#:/admin/advanced/vpn/add
+msgid "Tunnel Local IP"
+msgstr "터널 로컬 IP"
+
+#:/admin/advanced/vpn/add
+msgid "Server IP"
+msgstr "서버 IP"
+
+#:/admin/advanced/vpn/add
+msgid "Tunnel Remote IP"
+msgstr "터널 원격 IP"
+
+#:/admin/advanced/vpn
+msgid "DEL"
+msgstr "DEL"
+
+#:/admin/advanced/vpn
+msgid "offline"
+msgstr "오프라인"
+
+#:/admin/advanced/vpn
+msgid "online"
+msgstr "온라인"
+
+#:/admin/advanced/routes
+msgid "Routes specify over which interface and gateway a certain host or network can be reached."
+msgstr "경로는 특정 호스트 또는 네트워크에 어떤 인터페이스와 게이트웨이를 통해 도달할 수 있는지 지정합니다."
+
+#:/admin/advanced/routes
+msgid "Target"
+msgstr "대상"
+
+#:/admin/advanced/routes
+msgid "Metric"
+msgstr "메트릭"
+
+#:/admin/advanced/diagnostics
+msgid "Network Utilities"
+msgstr "네트워크 유틸리티"
+
+#:/admin/advanced/routes
+msgid "PING"
+msgstr "PING"
+
+#:/admin/advanced/routes
+msgid "TRACEROUTE"
+msgstr "TRACEROUTE"
+
+#:/admin/advanced/routes
+msgid "NSLOOKUP"
+msgstr "NSLOOKUP"
+
+#:/admin/advanced/sqm
+msgid "Smart Queue Management"
+msgstr "스마트 큐 관리"
+
+#:/admin/advanced/sqm
+msgid "Intelligent network optimization"
+msgstr "지능형 네트워크 최적화"
+
+#:/admin/advanced/sqm
+msgid "Download speed (Mbit/s)"
+msgstr "다운로드 속도 (Mbit/s)"
+
+#:/admin/advanced/sqm
+msgid "Upload speed (Mbit/s)"
+msgstr "업로드 속도 (Mbit/s)"
+
+#:/admin/advanced/sqm
+msgid "Configuration applied."
+msgstr "구성 적용됨."
+
+#:/admin/advanced/sqm
+msgid "Applying changes"
+msgstr "변경사항 적용 중"
+
+#:admin/dashboard
+msgid "Cellular"
+msgstr "셀룰러"
+
+#:admin/dashboard
+msgid "Advanced"
+msgstr "고급"
+
+#:admin/dashboard
+msgid "Static Routes"
+msgstr "정적 경로"
+
+#:admin/dashboard
+msgid "SQM QoS"
+msgstr "SQM QoS"
+
+
+

@@ -1,0 +1,493 @@
+This IPv4 address of the relay
+This authentication type is not applicable to the selected EAP method.
+This does not look like a valid PEM file
+
+
+
+
+
+This is the only DHCP server in the local network.
+This is the plain username for logging into the account
+
+
+
+
+Time advertisement
+Time in milliseconds
+Time in seconds to spend in listening and learning states
+Time interval for rekeying GTK
+Time zone
+Timeout in seconds
+Timeout in seconds for learned MAC addresses in the forwarding database
+Timeout in seconds until topology updates on link loss
+
+To login…
+
+Tone
+Traceroute
+Tracking Area Code
+Traffic Class
+Traffic filter chain \
+Traffic matched by rule: %.1000mPackets, %.1024mBytes
+Transmit
+Transmit Hash Policy
+Transmit dropped
+Transmit errors
+Transmitted bytes
+Transmitted packets
+Transport header bits %d-%d
+Transport header destination port
+Transport header source port
+Tunnel ID
+Tunnel Interface
+Tunnel Link
+Tunnel device
+Type of service
+UDP destination port
+UDP source port
+UDP:
+UMTS only
+UMTS/GPRS/EV-DO
+UUID
+Unable to determine device name
+Unable to determine external IP address
+Unable to determine upstream interface
+Unable to dispatch
+Unable to generate QR code: %s
+Unable to load log data:
+Unable to obtain client ID
+Unable to obtain mount information
+Unable to resolve AFTR host name
+Unable to resolve peer host name
+Unable to restart firewall: %s
+Unable to save contents: %s
+Unable to set allowed mode list.
+Unable to set preferred mode.
+Unable to verify PIN
+Unconfigure
+Unet
+Unexpected reply data format
+
+Unknown and unsupported connection method.
+Unknown error (%s)
+Unknown error code
+Unmanaged
+Unmount
+Unnamed key
+Unsupported MAP type
+Unsupported modem
+Unsupported protocol
+Unsupported protocol type.
+Untagged
+Untitled peer
+Up
+Up Delay
+Upload
+
+Upload file
+Upload file…
+Upload has been cancelled
+Upload request failed: %s
+Uploading file…
+
+
+
+Upstream resolvers will be queried in the order of the resolv file.
+Use DHCP
+Use DHCP gateway
+Use DHCPv6
+Use MTU on tunnel interface
+Use TTL on tunnel interface
+Use XOR of hardware MAC addresses (layer2)
+Use XOR of hardware MAC addresses and IP addresses (layer2+3)
+
+Use as external overlay (/overlay)
+Use as root filesystem (/)
+Use legacy MAP
+
+Use same source and destination for each connection
+Use system certificates
+Use system certificates for inner-tunnel
+
+Use upper layer protocol information (layer3+4)
+
+Used Key Slot
+
+User Group
+User certificate (PEM encoded)
+User identifier
+User key (PEM encoded)
+Utilize flow table <strong>%h</strong>
+VC-Mux
+VDSL
+VEPA (Virtual Ethernet Port Aggregator)
+VLAN (802.1ad)
+VLAN (802.1q)
+VLAN ID
+VLANs on %q
+VPN Local address
+VPN Local port
+VPN Protocol
+VPN Server
+VPN Server certificate's SHA256 hash
+VPN Server port
+VPN Server's certificate SHA1 hash
+VPNC (CISCO 3000 (and others) VPN)
+VTI
+VXLAN (RFC7348)
+VXLAN network identifier
+VXLANv6 (RFC7348)
+
+
+Validation for all slaves
+Validation only for active slave
+Validation only for backup slaves
+Vendor
+Verify unsigned domain responses really come from unsigned domains.
+Verifying the uploaded image file.
+Very High
+Virtual Ethernet
+Virtual dynamic interface
+WEP Open System
+WEP Shared Key
+WEP passphrase
+WLAN roaming
+WNM Sleep Mode
+WNM Sleep Mode Fixes
+WPA passphrase
+
+Waiting for device...
+Warning
+Warning: There are unsaved changes that will get lost on reboot!
+Weak
+Weight
+
+
+
+
+
+
+
+
+
+
+WireGuard VPN
+WireGuard peer is disabled
+Wireless Adapter
+Wireless configuration migration
+XOR policy (balance-xor, 2)
+Yes
+Yes (none, 0)
+
+
+You may add multiple records for the same Target.
+You may add multiple records for the same domain.
+You may add multiple unique Relay To on the same Listen addr.
+
+
+
+ZRam Compression Algorithm
+ZRam Settings
+ZRam Size
+_proto: _tcp, _udp, _sctp, _quic, … .
+
+any
+automatic (disabled)
+automatic (enabled)
+baseT
+bridged
+create
+create:
+day
+disable
+disabled
+driver default (%s)
+e.g: --proxy 10.10.10.10
+e.g: dump
+enabled
+every %ds
+forced
+forward
+full-duplex
+half-duplex
+hexadecimal encoded value
+hidden
+hour
+hybrid mode
+ignore
+input
+key between 8 and 63 characters
+key with either 5 or 13 characters
+managed config (M)
+medium security
+minute
+minutes
+mobile home agent (H)
+netif_carrier_ok()
+no
+no override
+non-empty value
+not present
+on available prefix
+other config (O)
+packets
+randomly generated
+
+
+unknown version
+valid hostname or IP address
+valid integer value
+valid multicast MAC address
+
+valid network device name, not \
+valid network in address/netmask notation
+valid phone digit (0-9, \
+valid port or port range (port1-port2)
+valid port value
+valid time (HH:MM:SS)
+value between %d and %d characters
+value between %f and %f
+value greater or equal to %f
+value smaller or equal to %f
+value with %d characters
+value with at least %d characters
+value with at most %d characters
+week
+yes
+Wizard - Start
+Setting parameters has never been so easy as it is now, this setup wizard will guide you set the basic parameters related to the network, click 'Next' to start it. If you want to set a specific function or parameter in detail, click the relevant column on the navigation bar.
+Next
+Wizard - LAN Setting
+IPv4 netmask
+IPv4 gateway
+Wizard - WiFi Setting
+Wizard - WAN Setting
+Wizard - Cellular Setting
+Cellular APN for sim card
+Wizard - Completion
+Congratulation! Setup wizard is about to complete, click 'Complete' to apply your changes.
+COMPLETE
+Updating...
+Wizard is updating noW
+DO NOT POWER OFF THE DEVICE!
+Please wait a few minutes
+Waiting for changes to be applied...
+Teminal
+Internet
+Disconnected
+System Information
+Resource usage
+WIFI Infomation
+Option
+4G LTE Information
+Operator Name
+Band
+more>>
+Cellular Information
+We get the Cellular information on this page
+Cellular Information for SIM
+Manufacturer
+Software Version
+Operator
+Cellular Setting
+Set the params for the Cellular Internet.
+SIM Settings
+Dail Type
+SIM Select
+ After selecting the sim card, please reboot device to active.
+The Host to ping for keeping Cellular alive.
+PDP Type
+Authentication Type
+PDP Num
+LAN Setting
+There are ipaddress netmas gateway dns mtu such as parameter on the LAN Settings page
+WAN Settings
+Setting parameters about the WAN Interface on this page.
+Check Alive Host
+Override MAC address
+DHCP client
+Statuc address
+Configure the params of 2.4G wireless
+Wi-Fi Setting
+Hide ESSID
+AuthMode
+HT Mode
+Country Region/
+Channel 0
+Channel 1
+Channel 2
+Channel 3
+Channel 4
+Channel 5
+Channel 6
+Channel 7
+Channel 8
+Channel 9
+Channel 10
+Channel 11
+WPA-PSK/WPA2-PSK2 Mixed Mode
+Repeater
+WIFI WISP Repeater
+We Can configure the wifi wisp for the router
+Repeater Status
+Locked BSSID
+Encryption Mode
+Check Alive Host
+WIFI-SCAN
+IPv4-Address
+DHCP Leases
+IPv6-Address
+MAC-Address
+Leasetime remaining
+DTU Management
+Servers List
+ADD
+DTU Management
+	Server IP
+	Server Port
+CONNECT
+Serial Port
+DTU Serial Port Management
+This is the page of setting the dtu serail port.
+Serial Port Setting
+Baud rate
+Time Interval(ms)
+Data bits
+Parity
+Stop bits
+Firewall - Zone Settings
+The firewall creates zones over your network interfaces to control network traffic flow.
+Enable SYN-flood protection
+Drop invalid packets
+Input
+Output
+Forward
+accept
+reject
+drop
+Zone ⇒ Forwardings
+Zones
+Masquerading
+MSS clamping
+DMZ Setting
+Configure The DMZ
+DMZ Host IP Address
+Port Forwards
+Firewall - Port Forwards
+Port forwarding allows remote computers on the Internet to connect to a specific computer or service within the private LAN.
+Match
+Forward to
+Sort
+From any host in wan Via any router IP
+New port forward:
+New po
+External zone
+External port
+Internal zone
+Internal IP address
+Internal port
+Traffic Rules
+Firewall - Traffic Rules
+Traffic rules define policies for packets traveling between different zones, for example to reject traffic between certain hosts or to open WAN ports on the router.
+Action
+Accept input
+Allow-DHCP-Renew
+Allow-Ping
+Allow-IGMP
+Allow-MLD
+Allow-DHCPv6
+Allow-ICMPv6-Input
+Allow-ICMPv6-Forward
+Open ports on router:
+New input rule
+New forward rule:
+Source zone
+Destination zone	
+ADD AND EDIT...
+Source NAT is a specific form of masquerading which allows fine grained control over the source IP used for outgoing traffic, for example to map multiple WAN addresses to internal subnets.
+New source NAT:
+To source IP
+To source port	
+From any host in wan
+To any router IP at port 68 on this device
+IPv4-ICMP with type echo-request
+To any router IP on this device
+From IP range fe80::/10 in wan with source port 547
+To IP range fe80::/10 at port 546 on this device
+IPv6-ICMP with types 130/0, 131/0, 132/0, 143/0
+From IP range fe80::/10 in wan
+IPv6-ICMP with types echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type, router-solicitation, neighbour-solicitation, router-advertisement, neighbour-advertisement
+IPv6-ICMP with types echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type
+Any IPSEC-ESP
+Domain Filter
+Domain Filter Setting
+Configure the Domain Filter
+The Filter Type
+BlackList
+WhiteList
+Blocked Domain List
+VPN PASS THROUGH
+Configure The VPN Passthrough
+Allow PPTP transparent transmission in VPN connection
+Allow L2TP transparent transmission in VPN connection
+Allow IPSEC transparent transmission in VPN connection
+Firewall - Custom Rules
+Custom Rules
+Custom rules allow you to execute arbritary iptables commands which are not otherwise covered by the firewall framework. The commands are executed after each firewall restart, right after the default ruleset has been loaded.
+Enable NTP Client
+NTP Server Candidates
+Configure the timezone of your device.
+Backup/Restore
+Backup the system configs and restore it and update the firemware
+Click 
+To restore configuration files, you can upload a previously generated backup archive here.
+Upload a sysupgrade-compatible image here to replace the running firmware. Check 
+Keep settings:
+Changes the the device model
+Router Model
+Scheduled Reboot
+Scheduled reboot Setting
+Week Day
+Hour
+Minute
+Everyday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+IO Controller Overview
+You can get the all status of IO in the device
+Controller
+VPN Overview
+VPN Management
+Overview of the vpns both pptp and l2tp client
+You can add new vpn tunnel with pptp or l2tp protocol
+NEW VPN Setting
+Name of the new vpn tunne
+Firewall Zone
+Tunnel Local IP
+Server IP
+Tunnel Remote IP
+DEL
+offline
+online
+Routes specify over which interface and gateway a certain host or network can be reached.
+Target
+Metric
+Network Utilities
+PING
+TRACEROUTE
+NSLOOKUP
+Smart Queue Management
+Intelligent network optimization
+Download speed (Mbit/s)
+Upload speed (Mbit/s)
+Configuration applied.
+Applying changes
+Cellular
+Advanced
+Static Routes
+SQM QoS

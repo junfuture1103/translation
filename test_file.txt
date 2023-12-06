@@ -1,0 +1,2204 @@
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:49
+msgid "This IPv4 address of the relay"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1722
+msgid "This authentication type is not applicable to the selected EAP method."
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:58
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:56
+msgid "This does not look like a valid PEM file"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:454
+msgid ""
+"This is a list of shell glob patterns for matching files and directories to "
+"include during sysupgrade. Modified files in /etc/config/ and certain other "
+"configurations are automatically preserved."
+msgstr ""
+"이것은 Sysupgrade 시에 유지되어야 하는 파일과 디렉터리 목록에 대한 shell "
+"glob 패턴들입니다. /etc/config/ 하위의 수정된 파일이나 특정 다른 설정들은 자"
+"동으로 보존됩니다."
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:81
+msgid ""
+"This is either the \"Update Key\" configured for the tunnel or the account "
+"password if no update key has been configured"
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv_hardif.js:42
+msgid ""
+"This is the batman-adv device where you want to link the physical Device "
+"from above to. If this list is empty, then you need to create one first. If "
+"you want to route mesh traffic over a wired network device, then please "
+"select it from the above Device selector. If you want to assign the batman-"
+"adv interface to a Wi-fi mesh then do not select a Device in the Device "
+"selector but rather go to the Wireless settings and select this Interface as "
+"a network from there."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:116
+msgid ""
+"This is the content of /etc/rc.local. Insert your own commands here (in "
+"front of 'exit 0') to execute them at the end of the boot process."
+msgstr ""
+"이것은 /etc/rc.local 파일의 내용입니다. 여기에 ('exit 0' 앞에) 부팅 절차가 끝"
+"날 때 실행하고자 하는 명령들을 삽입하세요."
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:54
+msgid ""
+"This is the local endpoint address assigned by the tunnel broker, it usually "
+"ends with <code>...:2/64</code>"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:274
+msgid "This is the only DHCP server in the local network."
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:73
+msgid "This is the plain username for logging into the account"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:57
+msgid ""
+"This is the prefix routed to you by the tunnel broker for use by clients"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:50
+msgid ""
+"This is usually the address of the nearest PoP operated by the tunnel broker"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/processes.js:65
+msgid ""
+"This list gives an overview over currently running system processes and "
+"their status."
+msgstr ""
+"이 목록은 현재 실행중인 시스템 프로세스와 해당 상태에 대한 개요를 보여줍니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1676
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1734
+msgid ""
+"This option cannot be used because the ca-bundle package is not installed."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1629
+msgid "Time advertisement"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:713
+msgid "Time in milliseconds"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:581
+msgid "Time in seconds to spend in listening and learning states"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1174
+msgid "Time interval for rekeying GTK"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1638
+msgid "Time zone"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:717
+msgid "Timeout in seconds"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:567
+msgid "Timeout in seconds for learned MAC addresses in the forwarding database"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:586
+msgid "Timeout in seconds until topology updates on link loss"
+msgstr ""
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:438
+msgid ""
+"To fully configure the local WireGuard interface from an existing (e.g. "
+"provider supplied) configuration file, use the <strong><a class=\"full-"
+"import\" href=\"#\">configuration import</a></strong> instead."
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/luci.js:2674
+msgid "To login…"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:400
+msgid ""
+"To restore configuration files, you can upload a previously generated backup "
+"archive here. To reset the firmware to its initial state, click \"Perform "
+"reset\" (only possible with squashfs images)."
+msgstr ""
+"설정 파일을 복구하고자 한다면 이전에 백업하신 아카이브 파일을 여기로 업로드"
+"할 수 있습니다. 펌웨어의 초기 설정 초기화를 원하시다면, \"초기화 하기\" 를 클"
+"릭하세요. (squashfs 이미지들만 가능)."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1534
+msgid "Tone"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:110
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:111
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:121
+msgid "Traceroute"
+msgstr ""
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/view/modemmanager/status.js:126
+msgid "Tracking Area Code"
+msgstr ""
+
+#: protocols/luci-proto-gre/htdocs/luci-static/resources/protocol/grev6.js:79
+#: protocols/luci-proto-gre/htdocs/luci-static/resources/protocol/grev6tap.js:84
+msgid "Traffic Class"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:528
+msgid "Traffic filter chain \"%h\""
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:466
+msgctxt "nft counter"
+msgid "Traffic matched by rule: %.1000mPackets, %.1024mBytes"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/led-trigger/netdev.js:25
+msgid "Transmit"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:319
+msgid "Transmit Hash Policy"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:239
+msgid "Transmit dropped"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:238
+msgid "Transmit errors"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:236
+msgid "Transmitted bytes"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:237
+msgid "Transmitted packets"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:79
+msgctxt "nft @th,off,len"
+msgid "Transport header bits %d-%d"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:59
+msgctxt "nft th dport"
+msgid "Transport header destination port"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:58
+msgctxt "nft th sport"
+msgid "Transport header source port"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:69
+msgid "Tunnel ID"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:3005
+#: modules/luci-compat/luasrc/model/network.lua:1431
+msgid "Tunnel Interface"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/464xlat.js:44
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:55
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:76
+msgid "Tunnel Link"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1437
+msgid "Tunnel device"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:182
+msgid "Type of service"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:56
+msgctxt "nft udp dport"
+msgid "UDP destination port"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:55
+msgctxt "nft udp sport"
+msgid "UDP source port"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/connections.js:328
+msgid "UDP:"
+msgstr ""
+
+#: protocols/luci-proto-3g/htdocs/luci-static/resources/protocol/3g.js:91
+msgid "UMTS only"
+msgstr ""
+
+#: modules/luci-compat/luasrc/model/network/proto_3g.lua:10
+#: protocols/luci-proto-3g/htdocs/luci-static/resources/protocol/3g.js:43
+msgid "UMTS/GPRS/EV-DO"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:255
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:361
+msgid "UUID"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:16
+#: modules/luci-base/htdocs/luci-static/resources/network.js:17
+#: modules/luci-compat/luasrc/model/network.lua:34
+#: modules/luci-compat/luasrc/model/network.lua:35
+msgid "Unable to determine device name"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:18
+#: modules/luci-compat/luasrc/model/network.lua:36
+msgid "Unable to determine external IP address"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:19
+#: modules/luci-compat/luasrc/model/network.lua:37
+msgid "Unable to determine upstream interface"
+msgstr ""
+
+#: modules/luci-base/ucode/template/error404.ut:12
+msgid "Unable to dispatch"
+msgstr ""
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:85
+msgid "Unable to generate QR code: %s"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/dmesg.js:9
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/syslog.js:15
+msgid "Unable to load log data:"
+msgstr ""
+
+#: modules/luci-compat/luasrc/model/network/proto_modemmanager.lua:54
+#: modules/luci-compat/luasrc/model/network/proto_qmi.lua:54
+#: protocols/luci-proto-qmi/htdocs/luci-static/resources/protocol/qmi.js:22
+msgid "Unable to obtain client ID"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:221
+msgid "Unable to obtain mount information"
+msgstr ""
+
+#: modules/luci-compat/luasrc/model/network/proto_4x6.lua:61
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:7
+msgid "Unable to resolve AFTR host name"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:20
+#: modules/luci-compat/luasrc/model/network.lua:38
+msgid "Unable to resolve peer host name"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/iptables.js:313
+msgid "Unable to restart firewall: %s"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/crontab.js:22
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:370
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:57
+msgid "Unable to save contents: %s"
+msgstr ""
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:14
+msgid "Unable to set allowed mode list."
+msgstr ""
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:17
+msgid "Unable to set preferred mode."
+msgstr ""
+
+#: protocols/luci-proto-ncm/htdocs/luci-static/resources/protocol/ncm.js:29
+msgid "Unable to verify PIN"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1325
+msgid "Unconfigure"
+msgstr ""
+
+#: protocols/luci-proto-unet/htdocs/luci-static/resources/protocol/unet.js:8
+msgid "Unet"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/fs.js:102
+msgid "Unexpected reply data format"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1500
+msgid ""
+"Unique Local Address - in the range <code>fc00::/7</code>. Typically only "
+"within the &#8216;local&#8217; half <code>fd00::/8</code>. ULA for IPv6 is "
+"analogous to IPv4 private network addressing. This prefix is randomly "
+"generated at first install."
+msgstr ""
+
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:12
+msgid "Unknown and unsupported connection method."
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:2401
+#: modules/luci-compat/luasrc/model/network.lua:1138
+msgid "Unknown error (%s)"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/rpc.js:412
+msgid "Unknown error code"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:2089
+#: modules/luci-base/htdocs/luci-static/resources/protocol/none.js:6
+#: modules/luci-compat/luasrc/model/network.lua:965
+msgid "Unmanaged"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:195
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:217
+msgid "Unmount"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/sshkeys.js:121
+msgid "Unnamed key"
+msgstr ""
+
+#: modules/luci-compat/luasrc/model/network/proto_4x6.lua:64
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:9
+msgid "Unsupported MAP type"
+msgstr ""
+
+#: modules/luci-compat/luasrc/model/network/proto_ncm.lua:69
+#: protocols/luci-proto-ncm/htdocs/luci-static/resources/protocol/ncm.js:31
+msgid "Unsupported modem"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:112
+msgid "Unsupported protocol"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:316
+msgid "Unsupported protocol type."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:215
+msgctxt "VLAN port state"
+msgid "Untagged"
+msgstr ""
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:532
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/view/wireguard/status.js:97
+msgid "Untitled peer"
+msgstr ""
+
+#: modules/luci-compat/luasrc/view/cbi/tblsection.htm:151
+msgid "Up"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:411
+msgid "Up Delay"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4260
+msgid "Upload"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:441
+msgid ""
+"Upload a sysupgrade-compatible image here to replace the running firmware."
+msgstr ""
+"현재 실행 중인 펌웨어를 교체하려면 여기에서 sysupgrade 와 호환되는 이미지를 "
+"업로드하세요."
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:2874
+msgid "Upload file"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:2849
+msgid "Upload file…"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4206
+msgid "Upload has been cancelled"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:2796
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4248
+msgid "Upload request failed: %s"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4167
+#: modules/luci-base/htdocs/luci-static/resources/ui.js:4221
+msgid "Uploading file…"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:789
+msgid ""
+"Upon pressing \"Continue\", anonymous \"wifi-iface\" sections will be "
+"assigned with a name in the form <em>wifinet#</em> and the network will be "
+"restarted to apply the updated configuration."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:411
+msgid ""
+"Upon pressing \"Continue\", bridges configuration will be updated and the "
+"network will be restarted to apply the updated configuration."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:445
+msgid ""
+"Upon pressing \"Continue\", ifname options will get renamed and the network "
+"will be restarted to apply the updated configuration."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:505
+msgid "Upstream resolvers will be queried in the order of the resolv file."
+msgstr ""
+"<abbr title=\"Domain Name System\">DNS</abbr> 서버들이 resolvfile의 순서에 따"
+"라 쿼리됩니다"
+
+#: protocols/luci-proto-mbim/htdocs/luci-static/resources/protocol/mbim.js:106
+msgid "Use DHCP"
+msgstr ""
+
+#: protocols/luci-proto-relay/htdocs/luci-static/resources/protocol/relay.js:167
+msgid "Use DHCP gateway"
+msgstr ""
+
+#: protocols/luci-proto-mbim/htdocs/luci-static/resources/protocol/mbim.js:115
+msgid "Use DHCPv6"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/464xlat.js:48
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:89
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:69
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6to4.js:53
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:67
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:84
+msgid "Use MTU on tunnel interface"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6in4.js:85
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:65
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6to4.js:49
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:80
+msgid "Use TTL on tunnel interface"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:322
+msgid "Use XOR of hardware MAC addresses (layer2)"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:323
+msgid "Use XOR of hardware MAC addresses and IP addresses (layer2+3)"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:325
+msgid ""
+"Use XOR of hardware MAC addresses and IP addresses, rely on skb_flow_dissect "
+"(encap2+3)"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:295
+msgid "Use as external overlay (/overlay)"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:294
+msgid "Use as root filesystem (/)"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:88
+msgid "Use legacy MAP"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/map.js:88
+msgid ""
+"Use legacy MAP interface identifier format (draft-ietf-softwire-map-00) "
+"instead of RFC7597"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:63
+msgctxt "nft nat flag persistent"
+msgid "Use same source and destination for each connection"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1669
+msgid "Use system certificates"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1727
+msgid "Use system certificates for inner-tunnel"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:768
+msgid ""
+"Use the <em>Add</em> Button to add a new lease entry. The <em>MAC address</"
+"em> identifies the host, the <em>IPv4 address</em> specifies the fixed "
+"address to use, and the <em>Hostname</em> is assigned as a symbolic name to "
+"the requesting host. The optional <em>Lease time</em> can be used to set non-"
+"standard host-specific lease time, e.g. 12h, 3d or infinite."
+msgstr ""
+"새로운 항목을 추가하기 위해서는 <em>추가</em> 버튼을 사용하세요. <em>MAC-주소"
+"</em>는 host 를 나타내며, <em>IPv4-주소</em>는 사용할 고정 주소를 나타내고, "
+"요청하는 host 에 대해 <em>hostname</em> 이 symbolic name 으로 부여됩니다. 선"
+"택 사항인 <em>임대 시간</em>은 해당 host 에만 해당되는 시각을 설정하는데 사용"
+"될 수 있습니다. 예를 들어 12h, 3d 혹은 infinite 값들이 가능합니다."
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:324
+msgid "Use upper layer protocol information (layer3+4)"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:326
+msgid ""
+"Use upper layer protocol information, rely on skb_flow_dissect (encap3+4)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1514
+msgid "Used Key Slot"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1557
+msgid ""
+"Used for two different purposes: RADIUS NAS ID and 802.11r R0KH-ID. Not "
+"needed with normal WPA(2)-PSK."
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:146
+msgid "User Group"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:158
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:106
+msgid "User certificate (PEM encoded)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:187
+msgid "User identifier"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:170
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:118
+msgid "User key (PEM encoded)"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:131
+msgid "Utilize flow table <strong>%h</strong>"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1602
+msgid "VC-Mux"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1550
+msgid "VDSL"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:489
+msgctxt "MACVLAN mode"
+msgid "VEPA (Virtual Ethernet Port Aggregator)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:400
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1431
+msgid "VLAN (802.1ad)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:399
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1428
+msgid "VLAN (802.1q)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:468
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:923
+msgid "VLAN ID"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:173
+msgid "VLANs on %q"
+msgstr ""
+
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:42
+msgid "VPN Local address"
+msgstr ""
+
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:46
+msgid "VPN Local port"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:97
+msgid "VPN Protocol"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:103
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:93
+#: protocols/luci-proto-ppp/htdocs/luci-static/resources/protocol/pptp.js:58
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:39
+msgid "VPN Server"
+msgstr ""
+
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:152
+msgid "VPN Server certificate's SHA256 hash"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:140
+#: protocols/luci-proto-openfortivpn/htdocs/luci-static/resources/protocol/openfortivpn.js:96
+msgid "VPN Server port"
+msgstr ""
+
+#: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:144
+msgid "VPN Server's certificate SHA1 hash"
+msgstr ""
+
+#: modules/luci-compat/luasrc/model/network/proto_vpnc.lua:9
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:9
+msgid "VPNC (CISCO 3000 (and others) VPN)"
+msgstr ""
+
+#: protocols/luci-proto-vti/htdocs/luci-static/resources/protocol/vti.js:10
+msgid "VTI"
+msgstr ""
+
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan.js:10
+msgid "VXLAN (RFC7348)"
+msgstr ""
+
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan.js:53
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan6.js:48
+msgid "VXLAN network identifier"
+msgstr ""
+
+#: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan6.js:10
+msgid "VXLANv6 (RFC7348)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:480
+msgid ""
+"Validate DNS replies and cache DNSSEC data, requires upstream to support "
+"DNSSEC."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1669
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1727
+msgid ""
+"Validate server certificate using built-in system CA bundle,<br />requires "
+"the \"ca-bundle\" package"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:388
+msgid "Validation for all slaves"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:386
+msgid "Validation only for active slave"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:387
+msgid "Validation only for backup slaves"
+msgstr ""
+
+#: protocols/luci-proto-vpnc/htdocs/luci-static/resources/protocol/vpnc.js:73
+msgid "Vendor"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:485
+msgid "Verify unsigned domain responses really come from unsigned domains."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:196
+msgid "Verifying the uploaded image file."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:951
+msgid "Very High"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:402
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1443
+msgid "Virtual Ethernet"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:60
+msgid "Virtual dynamic interface"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1298
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1387
+msgid "WEP Open System"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1299
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1388
+msgid "WEP Shared Key"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:2119
+msgid "WEP passphrase"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:983
+msgid "WLAN roaming"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1642
+msgid "WNM Sleep Mode"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1646
+msgid "WNM Sleep Mode Fixes"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:2119
+msgid "WPA passphrase"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1289
+msgid ""
+"WPA-Encryption requires wpa_supplicant (for client mode) or hostapd (for AP "
+"and ad-hoc mode) to be installed."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/reboot.js:47
+msgid "Waiting for device..."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:189
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:199
+msgid "Warning"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/reboot.js:26
+msgid "Warning: There are unsaved changes that will get lost on reboot!"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/password.js:37
+msgid "Weak"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:666
+msgid "Weight"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1053
+msgid ""
+"When delegating prefixes to multiple downstreams, interfaces with a higher "
+"preference value are considered first when allocating subnets."
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:105
+msgid ""
+"When enabled network coding increases the WiFi throughput by combining "
+"multiple frames into a single frame, thus reducing the needed air time."
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:76
+msgid ""
+"When enabled the distributed ARP table forms a mesh-wide ARP cache that "
+"helps non-mesh clients to get ARP responses much more reliably and without "
+"much delay."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:110
+msgid ""
+"When enabled, gateway is on-link even if the gateway does not match any "
+"interface prefix"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:707
+msgid ""
+"When enabled, new ARP table entries are added from received gratuitous APR "
+"requests or replies, otherwise only preexisting table entries are updated, "
+"but no new hosts are learned."
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/led-trigger/heartbeat.js:14
+msgid ""
+"When inverted, the LED is continuously lit and flickers instead of it being "
+"off by default and blinking on system activity."
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:66
+msgid ""
+"When running the mesh over multiple WiFi interfaces per node batman-adv is "
+"capable of optimizing the traffic flow to gain maximum performance."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1580
+msgid ""
+"When using a PSK, the PMK can be automatically generated. When enabled, the "
+"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
+"key options."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1139
+msgid ""
+"Where Wi-Fi Multimedia (WMM) Mode QoS is disabled, clients may be limited to "
+"802.11a/802.11g rates."
+msgstr ""
+"Wi-Fi 멀티미디어(WMM) 모드 QoS를 비활성화할 경우, 클라이언트의 링크 속도가 "
+"802.11a/802.11g 수준으로 제한될 수 있습니다."
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1135
+msgid ""
+"Where the ESSID is hidden, clients may fail to roam and airtime efficiency "
+"may be significantly reduced."
+msgstr ""
+"ESSID를 숨길 경우, 클라이언트는 로밍에 실패할 수 있으며 통신시간 효율이 확연"
+"히 저하될 수 있습니다."
+
+#: modules/luci-compat/luasrc/model/network/proto_wireguard.lua:9
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:119
+msgid "WireGuard VPN"
+msgstr ""
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:539
+msgid "WireGuard peer is disabled"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/network.js:2992
+#: modules/luci-compat/luasrc/model/network.lua:1419
+msgid "Wireless Adapter"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:787
+msgid "Wireless configuration migration"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:206
+msgid "XOR policy (balance-xor, 2)"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/form.js:4094
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:297
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:345
+msgid "Yes"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:305
+msgid "Yes (none, 0)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:177
+msgid ""
+"You appear to be currently connected to the device via the \"%h\" interface. "
+"Do you really want to shut down the interface?"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:112
+msgid ""
+"You can enable or disable installed init scripts here. Changes will applied "
+"after a device reboot.<br /><strong>Warning: If you disable essential init "
+"scripts like \"network\", your device might become inaccessible!</strong>"
+msgstr ""
+"이 메뉴에서 설치된 init script 를 활성화/비활성화 할 수 있습니다. 변경 사항"
+"은 장치가 재부팅 될 때 적용되게 됩니다.<br /><strong>경고: 만약 \"network\" "
+"와 같은 중요 init script 를 비활성화 할 경우, 장치에 접속을 못하실 수 있습니"
+"다!</strong>"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:636
+msgid "You may add multiple records for the same Target."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:673
+msgid "You may add multiple records for the same domain."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:357
+msgid "You may add multiple unique Relay To on the same Listen addr."
+msgstr ""
+
+#: themes/luci-theme-bootstrap/ucode/template/themes/bootstrap/header.ut:78
+#: themes/luci-theme-material/ucode/template/themes/material/header.ut:98
+#: themes/luci-theme-openwrt/luasrc/view/themes/openwrt.org/header.htm:73
+msgid ""
+"You must enable JavaScript in your browser or LuCI will not work properly."
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:117
+msgid ""
+"You must select a primary interface which is included in selected slave "
+"interfaces!"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:98
+msgid ""
+"You must select at least one ARP IP target if ARP monitoring is selected!"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:213
+msgid "ZRam Compression Algorithm"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:206
+msgid "ZRam Settings"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:208
+msgid "ZRam Size"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:635
+msgid "_proto: _tcp, _udp, _sctp, _quic, … ."
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:634
+msgid ""
+"_service: _sip, _ldap, _imap, _stun, _xmpp-client, … . (Note: while _http is "
+"possible, no browsers support SRV records.)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:531
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:153
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/routes.js:164
+#: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:103
+msgid "any"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:198
+msgid "automatic (disabled)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:198
+msgid "automatic (enabled)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:82
+msgid "baseT"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1608
+msgid "bridged"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:146
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:406
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:35
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:99
+#: modules/luci-compat/luasrc/view/cbi/network_netlist.htm:31
+msgid "create"
+msgstr ""
+
+#: modules/luci-compat/luasrc/view/cbi/network_netlist.htm:69
+msgid "create:"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:73
+msgctxt "nft unit"
+msgid "day"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1082
+msgid "disable"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:157
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:681
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:782
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:904
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:940
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1005
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:91
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dhcpv6.js:25
+msgid "disabled"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1162
+msgid "driver default (%s)"
+msgstr ""
+
+#: protocols/luci-proto-sstp/htdocs/luci-static/resources/protocol/sstp.js:66
+msgid "e.g: --proxy 10.10.10.10"
+msgstr ""
+
+#: protocols/luci-proto-sstp/htdocs/luci-static/resources/protocol/sstp.js:68
+msgid "e.g: dump"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:157
+msgid "enabled"
+msgstr ""
+
+#: protocols/luci-proto-wireguard/htdocs/luci-static/resources/view/wireguard/status.js:60
+msgctxt "WireGuard keep alive interval"
+msgid "every %ds"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:797
+msgid "forced"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:85
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:196
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:61
+msgid "forward"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:98
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:84
+msgid "full-duplex"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:98
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:84
+msgid "half-duplex"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:593
+msgid "hexadecimal encoded value"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1914
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/channel_analysis.js:297
+msgid "hidden"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:74
+msgctxt "nft unit"
+msgid "hour"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:788
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:910
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:944
+msgid "hybrid mode"
+msgstr ""
+
+#: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dslite.js:63
+msgid "ignore"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:69
+#: modules/luci-base/htdocs/luci-static/resources/tools/widgets.js:192
+#: modules/luci-compat/luasrc/view/cbi/firewall_zonelist.htm:46
+msgid "input"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:410
+msgid "key between 8 and 63 characters"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:422
+msgid "key with either 5 or 13 characters"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:810
+msgid "managed config (M)"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1397
+msgid "medium security"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:75
+msgctxt "nft unit"
+msgid "minute"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1585
+msgid "minutes"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:814
+msgid "mobile home agent (H)"
+msgstr ""
+
+#: protocols/luci-proto-bonding/htdocs/luci-static/resources/protocol/bonding.js:423
+msgid "netif_carrier_ok()"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:47
+msgid "no"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1162
+msgid "no override"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/form.js:2269
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:59
+msgid "non-empty value"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:41
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:55
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:69
+msgid "not present"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:795
+msgid "on available prefix"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:812
+msgid "other config (O)"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:69
+msgctxt "nft unit"
+msgid "packets"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1163
+msgid "randomly generated"
+msgstr ""
+
+#: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:51
+msgid ""
+"reduces overhead by collecting and aggregating originator messages in a "
+"single packet rather than many small ones"
+msgstr ""
+
+#: modules/luci-mod-system/htdocs/luci-static/resources/view/system/uhttpd.js:9
+msgid ""
+"uHTTPd offers <abbr title=\"Hypertext Transfer Protocol\">HTTP</abbr> or "
+"<abbr title=\"Hypertext Transfer Protocol Secure\">HTTPS</abbr> network "
+"access."
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/10_system.js:28
+msgid "unknown version"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:360
+msgid "valid hostname or IP address"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:240
+msgid "valid integer value"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:355
+msgid "valid multicast MAC address"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:435
+msgid ""
+"valid network device name between 1 and 15 characters not containing \":\", "
+"\"/\", \"%\" or spaces"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:433
+msgid "valid network device name, not \".\" or \"..\""
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:323
+msgid "valid network in address/netmask notation"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:532
+msgid "valid phone digit (0-9, \"*\", \"#\", \"!\" or \".\")"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:346
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:349
+msgid "valid port or port range (port1-port2)"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:338
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:192
+msgid "valid port value"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:537
+msgid "valid time (HH:MM:SS)"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:459
+msgid "value between %d and %d characters"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:440
+msgid "value between %f and %f"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:444
+msgid "value greater or equal to %f"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:448
+msgid "value smaller or equal to %f"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:453
+msgid "value with %d characters"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:464
+msgid "value with at least %d characters"
+msgstr ""
+
+#: modules/luci-base/htdocs/luci-static/resources/validation.js:469
+msgid "value with at most %d characters"
+msgstr ""
+
+#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/nftables.js:72
+msgctxt "nft unit"
+msgid "week"
+msgstr ""
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:47
+msgid "yes"
+msgstr ""
+
+#: /admin/wizard
+msgid "Wizard - Start"
+msgstr ""
+
+#: /admin/wizard
+msgid "Setting parameters has never been so easy as it is now, this setup wizard will guide you set the basic parameters related to the network, click 'Next' to start it. If you want to set a specific function or parameter in detail, click the relevant column on the navigation bar."
+msgstr ""
+
+#: /admin/wizard
+msgid "Next"
+msgstr ""
+
+#:/admin/wizard/lan?fromurl=wizard
+msgid "Wizard - LAN Setting"
+msgstr ""
+
+#:/admin/wizard/lan?fromurl=wizard
+msgid "IPv4 netmask"
+msgstr ""
+
+#:/admin/wizard/lan?fromurl=wizard
+msgid "IPv4 gateway"
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=lan
+msgid "Wizard - WiFi Setting"
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=wireless
+msgid "Wizard - WAN Setting"
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=wan
+msgid "Wizard - Cellular Setting"
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=wan
+msgid "Cellular APN for sim card"
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=cellular
+msgid "Wizard - Completion"
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=cellular
+msgid "Congratulation! Setup wizard is about to complete, click 'Complete' to apply your changes."
+msgstr ""
+
+#:/admin/wizard/wireless?fromurl=cellular
+msgid "COMPLETE"
+msgstr ""
+
+#:/admin/wizard/complete
+msgid "Updating..."
+msgstr ""
+
+#:/admin/wizard/complete
+msgid "Wizard is updating noW"
+msgstr ""
+
+#:/admin/wizard/complete
+msgid "DO NOT POWER OFF THE DEVICE!"
+msgstr ""
+
+#:/admin/wizard/complete
+msgid "Please wait a few minutes"
+msgstr ""
+
+#:/admin/wizard/complete
+msgid "Waiting for changes to be applied..."
+msgstr ""
+
+
+#:/admin/dashboard
+msgid "Teminal"
+msgstr ""
+
+#:/admin/dashboard
+msgid "Internet"
+msgstr ""
+
+#:/admin/dashboard
+msgid "Disconnected"
+msgstr ""
+
+#:/admin/dashboard
+msgid "System Information"
+msgstr ""
+
+#:/admin/dashboard
+msgid "Resource usage"
+msgstr ""
+
+#:/admin/dashboard
+msgid "WIFI Infomation"
+msgstr ""
+
+#:/admin/dashboard
+msgid "Option"
+msgstr ""
+
+#:/admin/dashboard
+msgid "4G LTE Information"
+msgstr ""
+
+#:/admin/dashboard
+msgid "Operator Name"
+msgstr ""
+
+#:/admin/dashboard
+msgid "Band"
+msgstr ""
+
+#:/admin/dashboard
+msgid "more>>"
+msgstr ""
+
+#:/admin/basic/cell
+msgid "Cellular Information"
+msgstr ""
+
+#:/admin/basic/cell
+msgid "We get the Cellular information on this page"
+msgstr ""
+
+#:/admin/basic/cell
+msgid "Cellular Information for SIM"
+msgstr ""
+
+#:/admin/basic/cell
+msgid "Manufacturer"
+msgstr ""
+
+#:/admin/basic/cell
+msgid "Software Version"
+msgstr ""
+
+#:/admin/basic/cell
+msgid "Operator"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "Cellular Setting"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "Set the params for the Cellular Internet."
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "SIM Settings"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "Dail Type"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "SIM Select"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid " After selecting the sim card, please reboot device to active."
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "The Host to ping for keeping Cellular alive."
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "PDP Type"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "Authentication Type"
+msgstr ""
+
+#:/admin/basic/cell/setting/
+msgid "PDP Num"
+msgstr ""
+
+#:/admin/basic/wired
+msgid "LAN Setting"
+msgstr ""
+
+#:/admin/basic/wired
+msgid "There are ipaddress netmas gateway dns mtu such as parameter on the LAN Settings page"
+msgstr ""
+
+#:/admin/basic/wired/wan
+msgid "WAN Settings"
+msgstr ""
+
+#:/admin/basic/wired/wan
+msgid "Setting parameters about the WAN Interface on this page."
+msgstr ""
+
+#:/admin/basic/wired/wan
+msgid "Check Alive Host"
+msgstr ""
+
+#:/admin/basic/wired/wan
+msgid "Override MAC address"
+msgstr ""
+
+#:/admin/basic/wired/wan
+msgid "DHCP client"
+msgstr ""
+
+#:/admin/basic/wired/wan
+msgid "Statuc address"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Configure the params of 2.4G wireless"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Wi-Fi Setting"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Hide ESSID"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "AuthMode"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "HT Mode"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Country Region/"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 0"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 1"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 2"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 3"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 4"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 5"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 6"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 7"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 8"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 9"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 10"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "Channel 11"
+msgstr ""
+
+#:/admin/basic/wireless
+msgid "WPA-PSK/WPA2-PSK2 Mixed Mode"
+msgstr ""
+
+
+#:/admin/basic/wireless/apcli
+msgid "Repeater"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "WIFI WISP Repeater"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "We Can configure the wifi wisp for the router"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "Repeater Status"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "Locked BSSID"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "Encryption Mode"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "Check Alive Host"
+msgstr ""
+
+#:/admin/basic/wireless/apcli
+msgid "WIFI-SCAN"
+msgstr ""
+
+#:/admin/basic/dhcp
+msgid "IPv4-Address"
+msgstr ""
+
+#:/admin/basic/dhcp
+msgid "DHCP Leases"
+msgstr ""
+
+#:/admin/basic/dhcp
+msgid "IPv6-Address"
+msgstr ""
+
+#:/admin/basic/dhcp
+msgid "MAC-Address"
+msgstr ""
+
+#:/admin/basic/dhcp
+msgid "Leasetime remaining"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "DTU Management"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "Servers List"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "ADD"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "DTU Management"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "	Server IP"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "	Server Port"
+msgstr ""
+
+#:/admin/advanced/dtu
+msgid "CONNECT"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Serial Port"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "DTU Serial Port Management"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "This is the page of setting the dtu serail port."
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Serial Port Setting"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Baud rate"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Time Interval(ms)"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Data bits"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Parity"
+msgstr ""
+
+#:admin/advanced/dtu/serial
+msgid "Stop bits"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Firewall - Zone Settings"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "The firewall creates zones over your network interfaces to control network traffic flow."
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Enable SYN-flood protection"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Drop invalid packets"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Input"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Output"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Forward"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "accept"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "reject"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "drop"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Zone ⇒ Forwardings"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Zones"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "Masquerading"
+msgstr ""
+
+#:/admin/advanced/firewall/zones/
+msgid "MSS clamping"
+msgstr ""
+
+#:/admin/advanced/firewall/dmz/
+msgid "DMZ Setting"
+msgstr ""
+
+#:/admin/advanced/firewall/dmz/
+msgid "Configure The DMZ"
+msgstr ""
+
+#:/admin/advanced/firewall/dmz/
+msgid "DMZ Host IP Address"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Port Forwards"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Firewall - Port Forwards"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Port forwarding allows remote computers on the Internet to connect to a specific computer or service within the private LAN."
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Match"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Forward to"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Sort"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "From any host in wan Via any router IP"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "New port forward:"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "New po"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "External zone"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "External port"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Internal zone"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Internal IP address"
+msgstr ""
+
+#:/admin/advanced/firewall/forwards/
+msgid "Internal port"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Traffic Rules"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Firewall - Traffic Rules"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Traffic rules define policies for packets traveling between different zones, for example to reject traffic between certain hosts or to open WAN ports on the router."
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Action"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Accept input"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-DHCP-Renew"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-Ping"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-IGMP"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-MLD"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-DHCPv6"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-ICMPv6-Input"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Allow-ICMPv6-Forward"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Open ports on router:"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "New input rule"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "New forward rule:"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Source zone"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Destination zone	"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "ADD AND EDIT..."
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Source NAT is a specific form of masquerading which allows fine grained control over the source IP used for outgoing traffic, for example to map multiple WAN addresses to internal subnets."
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "New source NAT:"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "To source IP"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "To source port	"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "From any host in wan"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "To any router IP at port 68 on this device"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv4-ICMP with type echo-request"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "To any router IP on this device"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "From IP range fe80::/10 in wan with source port 547"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "To IP range fe80::/10 at port 546 on this device"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv6-ICMP with types 130/0, 131/0, 132/0, 143/0"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "From IP range fe80::/10 in wan"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv6-ICMP with types echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type, router-solicitation, neighbour-solicitation, router-advertisement, neighbour-advertisement"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "IPv6-ICMP with types echo-request, echo-reply, destination-unreachable, packet-too-big, time-exceeded, bad-header, unknown-header-type"
+msgstr ""
+
+#:/admin/advanced/firewall/rules/
+msgid "Any IPSEC-ESP"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Domain Filter"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Domain Filter Setting"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Configure the Domain Filter"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "The Filter Type"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "BlackList"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "WhiteList"
+msgstr ""
+
+#:/admin/advanced/firewall/domainfilter/
+msgid "Blocked Domain List"
+msgstr ""
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "VPN PASS THROUGH"
+msgstr ""
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Configure The VPN Passthrough"
+msgstr ""
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Allow PPTP transparent transmission in VPN connection"
+msgstr ""
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Allow L2TP transparent transmission in VPN connection"
+msgstr ""
+
+#:/admin/advanced/firewall/vpnpassthrough/
+msgid "Allow IPSEC transparent transmission in VPN connection"
+msgstr ""
+
+#:/admin/advanced/firewall/custom/
+msgid "Firewall - Custom Rules"
+msgstr ""
+
+#:/admin/advanced/firewall/custom/
+msgid "Custom Rules"
+msgstr ""
+
+#:/admin/advanced/firewall/custom/
+msgid "Custom rules allow you to execute arbritary iptables commands which are not otherwise covered by the firewall framework. The commands are executed after each firewall restart, right after the default ruleset has been loaded."
+msgstr ""
+
+#:/admin/advanced/system
+msgid "Enable NTP Client"
+msgstr ""
+
+#:/admin/advanced/system
+msgid "NTP Server Candidates"
+msgstr ""
+
+#:/admin/advanced/system
+msgid "Configure the timezone of your device."
+msgstr ""
+
+#:/admin/advanced/system/flashops/
+msgid "Backup/Restore"
+msgstr ""
+
+#:/admin/advanced/system/flashops/
+msgid "Backup the system configs and restore it and update the firemware"
+msgstr ""
+
+#:/admin/advanced/system/flashops/
+msgid "Click "Generate archive" to download a tar archive of the current configuration files. To reset the firmware to its initial state, click "Perform reset" (only possible with squashfs images)."
+msgstr ""
+
+#:/admin/advanced/system/flashops/
+msgid "To restore configuration files, you can upload a previously generated backup archive here."
+msgstr ""
+
+#:/admin/advanced/system/flashops/
+msgid "Upload a sysupgrade-compatible image here to replace the running firmware. Check "Keep settings" to retain the current configuration (please upload the file provided by the manufacturer)."
+msgstr ""
+
+#:/admin/advanced/system/flashops/
+msgid "Keep settings:"
+msgstr ""
+
+#:/admin/advanced/system/model/
+msgid "Changes the the device model"
+msgstr ""
+
+#:/admin/advanced/system/model/
+msgid "Router Model"
+msgstr ""
+
+#:/admin/advanced/system/autoreboot/
+msgid "Scheduled Reboot"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Scheduled reboot Setting"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Week Day"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Hour"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Minute"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Everyday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Monday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Tuesday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Wednesday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Thursday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Friday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Saturday"
+msgstr ""
+
+#:/admin/advanced/system/mautoreboot/
+msgid "Sunday"
+msgstr ""
+
+#:/admin/advanced/ioctl
+msgid "IO Controller Overview"
+msgstr ""
+
+#:/admin/advanced/ioctl
+msgid "You can get the all status of IO in the device"
+msgstr ""
+
+#:/admin/advanced/ioctl
+msgid "Controller"
+msgstr ""
+
+#:/admin/advanced/vpn
+msgid "VPN Overview"
+msgstr ""
+
+#:/admin/advanced/vpn
+msgid "VPN Management"
+msgstr ""
+
+#:/admin/advanced/vpn
+msgid "Overview of the vpns both pptp and l2tp client"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "You can add new vpn tunnel with pptp or l2tp protocol"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "NEW VPN Setting"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "Name of the new vpn tunne"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "Firewall Zone"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "Tunnel Local IP"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "Server IP"
+msgstr ""
+
+#:/admin/advanced/vpn/add
+msgid "Tunnel Remote IP"
+msgstr ""
+
+#:/admin/advanced/vpn
+msgid "DEL"
+msgstr ""
+
+#:/admin/advanced/vpn
+msgid "offline"
+msgstr ""
+
+#:/admin/advanced/vpn
+msgid "online"
+msgstr ""
+
+#:/admin/advanced/routes
+msgid "Routes specify over which interface and gateway a certain host or network can be reached."
+msgstr ""
+
+#:/admin/advanced/routes
+msgid "Target"
+msgstr ""
+
+#:/admin/advanced/routes
+msgid "Metric"
+msgstr ""
+
+#:/admin/advanced/diagnostics
+msgid "Network Utilities"
+msgstr ""
+
+#:/admin/advanced/routes
+msgid "PING"
+msgstr ""
+
+#:/admin/advanced/routes
+msgid "TRACEROUTE"
+msgstr ""
+
+#:/admin/advanced/routes
+msgid "NSLOOKUP"
+msgstr ""
+
+#:/admin/advanced/sqm
+msgid "Smart Queue Management"
+msgstr ""
+
+#:/admin/advanced/sqm
+msgid "Intelligent network optimization"
+msgstr ""
+
+#:/admin/advanced/sqm
+msgid "Download speed (Mbit/s)"
+msgstr ""
+
+#:/admin/advanced/sqm
+msgid "Upload speed (Mbit/s)"
+msgstr ""
+
+#:/admin/advanced/sqm
+msgid "Configuration applied."
+msgstr ""
+
+#:/admin/advanced/sqm
+msgid "Applying changes"
+msgstr ""
+
+#:admin/dashboard
+msgid "Cellular"
+msgstr ""
+
+#:admin/dashboard
+msgid "Advanced"
+msgstr ""
+
+#:admin/dashboard
+msgid "Static Routes"
+msgstr ""
+
+#:admin/dashboard
+msgid "SQM QoS"
+msgstr ""
+
+
+

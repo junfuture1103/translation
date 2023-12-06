@@ -1,0 +1,11 @@
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1614
+msgid "802.11k RRM"
+msgstr "hello world!"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1623
+msgid "802.11k: Enable beacon report via radio measurements."
+msgstr "hello world!"
+
+#: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1619
+msgid "802.11k: Enable neighbor report via radio measurements."
+msgstr "hello world!"
